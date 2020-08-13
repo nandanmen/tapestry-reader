@@ -1,0 +1,4343 @@
+[
+  {
+    "id": 127,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Learning Tips",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/05/Screen-Shot-2020-05-14-at-04.17.12.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "h5p",
+    "mediaDuration": 521,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 3778.9462890625,
+      "y": 8085.659393310547
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read"
+      ],
+      "editor": [
+        "read"
+      ],
+      "contributor": [
+        "read"
+      ],
+      "subscriber": [
+        "read"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 373,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Behavioural Neuroscientist: Jason Snyder",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/JasonThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 255,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_ldg0l0op/v/2/ev/5/flavorId/0_57n8nahq/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 6513.408935546875,
+      "y": 6908.379852294922
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 441,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "The Resting Membrane Potential",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/RMPThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 182,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_j03243sk/v/2/ev/5/flavorId/0_ri1euikv/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 11578.279541015625,
+      "y": 9476.161346435547
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 445,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Postsynaptic Potentials",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/RMPThumb-1.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 318,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_udip0aoh/v/2/ev/5/flavorId/0_rkr1hjjw/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 8496.399169921875,
+      "y": 6018.108856201172
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [
+      449
+    ],
+    "fitWindow": true
+  },
+  {
+    "id": 449,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "The Action Potential",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/APThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 446,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0.0026598114977842368,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0.9973401885022157,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_0hn0e5o7/v/2/ev/5/flavorId/0_4ok6mqcb/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 10846.316162109375,
+      "y": 6410.061370849609
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 453,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Neural Transmission",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/NeurotransmissionThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 549,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0.0170991357748467,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0.9829008642251533,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_uwnd85tk/v/2/ev/5/flavorId/0_29qe1srd/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 11171.049560546875,
+      "y": 7582.232757568359
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 461,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Resting Membrane Potential: Animation",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/RMPAnimation.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 260,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_hv0nuizv/v/2/ev/5/flavorId/0_veb2bdx0/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 11961.888427734375,
+      "y": 9111.730438232422
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 469,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Postsynaptic Potential: Animation",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/PSPsAnimationThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 155,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_jkubr717/v/2/ev/5/flavorId/0_kjceur4r/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 8705.841064453125,
+      "y": 5601.585601806641
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 473,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Action Potential: Animation",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/APANimationThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 115,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_7ajqy8r3/v/2/ev/5/flavorId/0_slwwz0so/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 9665.802001953125,
+      "y": 5201.617706298828
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 477,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Summation of PSPs",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/SummationPSPsThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 271,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_g9o3x54j/v/2/ev/5/flavorId/0_nkqp1pd5/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 9183.008056640625,
+      "y": 5361.160308837891
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 898,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Week 7: Genetics, Evolutionary Psychology, and Behaviour",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/Week7Thumb.png",
+    "lockedImageURL": "",
+    "mediaType": "text",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "Welcome to the seventh week of the course! The video in this section details what you can expect from this week of the course.\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., Chapter 3, Section 3.1 of the OpenStax Psychology text) before proceeding. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+    },
+    "coordinates": {
+      "x": 9659.143798828125,
+      "y": 11745.068328857422
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read"
+      ],
+      "editor": [
+        "read"
+      ],
+      "contributor": [
+        "read"
+      ],
+      "subscriber": [
+        "read"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 902,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Nature vs. Nurture",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/NatureNurtureThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 119,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_tgdu0bo0/v/2/ev/5/flavorId/0_tnawphv0/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 9990.258056640625,
+      "y": 10413.526336669922
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 904,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Evolution",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/EvolutionThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 516,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_v0rtl60z/v/2/ev/5/flavorId/0_sf1gthox/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 10664.987548828125,
+      "y": 10768.865203857422
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 908,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Genetics & Epigenetics",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/geneticsEpigeneticsThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 653,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_8m76713d/v/2/ev/5/flavorId/0_czlvpqa9/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 8885.604736328125,
+      "y": 11738.378875732422
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 914,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Evolution, Genetics, & Behaviour",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/evoGeneticsBehaviour.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 570,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_veqav1s0/v/2/ev/5/flavorId/0_yqp0dqzn/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 10331.659423828125,
+      "y": 11811.451141357422
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 918,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Epigenetics",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/EpigeneticsAnimationThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 111,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_ea64oihr/v/2/ev/5/flavorId/0_poo9y1l5/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 8169.513916015625,
+      "y": 11572.271453857422
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 920,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Transgenerational Epigenetics",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/06/TransEpigeneticsAnimationThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 110,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_768imvz5/v/2/ev/5/flavorId/0_iw46l3el/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": ""
+    },
+    "coordinates": {
+      "x": 7413.385498046875,
+      "y": 11469.447723388672
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2142,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Week 8: Visual System",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/101Week7Thumb-4.png",
+    "lockedImageURL": "",
+    "mediaType": "text",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "Welcome to the eighth week of the course!\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., OpenStax Psychology text: Chapter 5 Introduction; Chapter 5, Sections 5.1 to 5.3) before proceeding on with this part of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+    },
+    "coordinates": {
+      "x": 9737.560791015625,
+      "y": 13693.025360107422
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read"
+      ],
+      "editor": [
+        "read"
+      ],
+      "contributor": [
+        "read"
+      ],
+      "subscriber": [
+        "read"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2163,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "The Eye",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/theEyeThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 630.36,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_mozznrd1/v/2/ev/5/flavorId/0_g7e922yq/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8635.881591796875,
+      "y": 14818.362274169922
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2167,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Receptive Fields",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/recptiveFieldsThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 447.192,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_p0gv6t5i/v/2/ev/5/flavorId/0_7381wum3/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8756.777099609375,
+      "y": 15488.645477294922
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2174,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Retina-Geniculate-Striate System",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/retingeniculatestriateThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 310.893,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_s2xq9b4l/v/2/ev/5/flavorId/0_1zybcn1l/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8174.217041015625,
+      "y": 14602.735321044922
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2178,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Higher Visual Cortices",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/higherCorticesThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 688.792,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_4kwyrv7p/v/2/ev/5/flavorId/0_aousxwbq/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 7379.892822265625,
+      "y": 13568.630828857422
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2184,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Colour Vision",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/facePerceptionThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 718.04,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_fmwcwa92/v/2/ev/5/flavorId/0_j9xlmr9r/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8327.806396484375,
+      "y": 13488.777313232422
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2190,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Face Perception",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/facePerceptionThumb-1.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 324.162,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_oehsrlt5/v/2/ev/5/flavorId/0_bvwp2asy/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8467.033447265625,
+      "y": 13967.416961669922
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2208,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Week 9: Other Sensory Systems, Attention, & Perception",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/somatosensoryThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "text",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "Welcome to the ninth week of the course!\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., OpenStax Psychology text: Chapter 5, Sections 5.4 to 5.6) before proceeding on with this part of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+    },
+    "coordinates": {
+      "x": 11169.843017578125,
+      "y": 15988.614227294922
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read"
+      ],
+      "editor": [
+        "read"
+      ],
+      "contributor": [
+        "read"
+      ],
+      "subscriber": [
+        "read"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [
+      {
+        "type": "date_passed",
+        "nodeId": 0,
+        "date": "2020-07-09",
+        "time": "00:00:00",
+        "timezone": "America/Vancouver"
+      }
+    ],
+    "childOrdering": [
+      2212
+    ],
+    "fitWindow": true
+  },
+  {
+    "id": 2212,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Auditory System",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/auditorySystemThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 621.805,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_uemxs9q2/v/2/ev/5/flavorId/0_kiuc6xgp/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 11810.434814453125,
+      "y": 14919.454071044922
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2218,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Somatosensory System",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/somatosensoryThumb-2.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 329.773,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_zbuvlzv2/v/2/ev/5/flavorId/0_xmh3uk8u/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 12498.307861328125,
+      "y": 15337.055633544922
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2224,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Chemical Senses",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/chemicalThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 196.504,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_r0q9gwqk/v/2/ev/5/flavorId/0_lqkm0uzs/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 12781.485595703125,
+      "y": 16019.851531982422
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2228,
+    "author": {
+      "id": "4",
+      "name": "steven"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Attention",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/attentionThumb.png",
+    "lockedImageURL": "",
+    "mediaType": "video",
+    "mediaFormat": "mp4",
+    "mediaDuration": 318.125,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_l3odeuiq/v/2/ev/5/flavorId/0_j3g6pyxv/forceproxy/true/name/a.mp4",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 12618.075439453125,
+      "y": 16906.415008544922
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read",
+        "add"
+      ],
+      "editor": [
+        "read",
+        "add"
+      ],
+      "contributor": [
+        "read",
+        "add"
+      ],
+      "subscriber": [
+        "read",
+        "add"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2243,
+    "author": {
+      "id": "166",
+      "name": "kwrl"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Neurotransmitters and Drugs (Karat Wannissorn)",
+    "status": "publish",
+    "imageURL": "//www.drugabuse.gov/sites/default/files/images/colorbox/neurotrans_graphic3.jpg",
+    "lockedImageURL": "//www.drugabuse.gov/sites/default/files/images/colorbox/neurotrans_graphic3.jpg",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "see link for article",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "W6: Neurotransmitters and Drugs (Karat Wannissorn) – PSYC 101 2020 Summer: Tapestry",
+        "description": "Typically, psychotropic drugs do not work instantaneously and alone to cure a disorder. To see results, a patient is required to take medicines consecutively and attend therapy sessions. Treatment can take months.",
+        "image": "https://www.drugabuse.gov/sites/default/files/images/colorbox/neurotrans_graphic3.jpg",
+        "url": "http://localhost:8888/psyc101/w6-neurotransmitters-and-drugs-karat-wannissorn/"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/w6-neurotransmitters-and-drugs-karat-wannissorn/",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "http://localhost:8888/psyc101/w6-neurotransmitters-and-drugs-karat-wannissorn/"
+    },
+    "coordinates": {
+      "x": 10793.185302734375,
+      "y": 7558.252288818359
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2281,
+    "author": {
+      "id": "166",
+      "name": "kwrl"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "The Classic Model of Neurotransmission (Ricardo Liu)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "see link for the article",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "W6: The Classic Model of Neurotransmission (Ricardo Liu) – PSYC 101 2020 Summer: Tapestry",
+        "description": "This statement was true at the neuromuscular junction since only acetylcholine is released. However, scientists have proven that many cells in the nervous system contain different neurotransmitters that coexist with each other.",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/w6-the-classic-model-of-neurotransmission-ricardo-liu/"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/w6-the-classic-model-of-neurotransmission-ricardo-liu/",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 10556.537353515625,
+      "y": 7157.405120849609
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2764,
+    "author": {
+      "id": "99",
+      "name": "riot"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Acetylcholine transmission, Memory and Disease(Chang Liu or Leo)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "wp-post",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "Log In – PSYC 101 2020 Summer: Tapestry",
+        "description": "",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/login/?redirect_to=https%3A%2F%2Fubc.tapestry-tool.com%2Fpsyc101%2Fwp-admin%2Fpost.php%3Fpost%3D1786&reauth=1"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": 1794,
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "Acetylcholine transmission and Memory and Disease\nPosted byriot July 8, 2020 Leave a commenton Acetylcholine transmission and Memory and Disease\nAcetylcholine (ACh) is a common type of neurotransmitter that exist in human bodies. Scientists found it plays crucial role in parts of both the peripheral and central nervous system of human brain. The level of Acetylcholine strongly determine a person’s capability of his or her memory function. Acetylcholine can helps to transmit singals and information from one neuron cell to other cells.\n\nThe Brain and Nervous System\n\n\n\nAcetylcholine also acts at various places in the nervous system where it can serve as a neurotransmitter and also as a neuromodulator. It plays a role in motivation, arousal, attention, learning, and memory ACH is also involved in promoting REM sleep.\n\nDisease and other damages\n\nSeveral disease caused by the\n\nMyasthenia Gravis: The disease myasthenia gravis, characterized by muscle weakness and fatigue, \n\nAlzheimer Disease: Critical cholinergic pathway deterioration in the CNS has been associated with the onset of Alzheimer’s disease.\n\nDrugs and substances that interrupt acetylcholine function can have negative effects on the body and can even lead to death. Examples of such substances include some types of pesticides and nerve gasses.\n\nRole of Acetylcholine in the aspect of Memory\n\nScientists believe that acetylcholine could control a repertoire of responses to novel information. \n\nReference\n\nMysliveček, J. (1986). The role of acetylcholine and catecholamines in the memory processes in the newborn rat. (pp. 343-346) Elsevier Ltd. doi:10.1016/B978-0-08-034186-6.50064-5\n\nSuryanarayanan, A. (2014). acetylcholine. (Third ed., pp. 49-50) Elsevier Inc. doi:10.1016/B978-0-12-386454-3.00218-9\n\nKropotov, J. D. (2016). Chapter 3.4 – memory systems. (pp. 231-242) Elsevier Inc. doi:10.1016/B978-0-12-410513-3.00014-0\n\nWenk, G. L. (2010). Your brain on food: How chemicals control your thoughts and feelings. New York;Oxford;: Oxford University Press."
+    },
+    "coordinates": {
+      "x": 10348.661865234375,
+      "y": 6857.975921630859
+    },
+    "permissions": {
+      "public": [
+        "read"
+      ],
+      "authenticated": [
+        "read"
+      ],
+      "editor": [
+        "read"
+      ],
+      "contributor": [
+        "read"
+      ],
+      "subscriber": [
+        "read"
+      ]
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2779,
+    "author": {
+      "id": "147",
+      "name": "brainfreeze"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Excitatory and Inhibitory Neurotransmitters (Cindy Hsu) [brainfreeze]",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "Types of Small Molecule Neurotransmitters (Cindy Hsu) – PSYC 101 2020 Summer: Tapestry",
+        "description": "The University of Queensland. (2017, November 09). ? Queensland Brain Institute. https://qbi.uq.edu.au/brain/brain-physiology/what-are-neurotransmitters",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/types-of-small-molecule-neurotransmitters-cindy-hsu/"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/types-of-small-molecule-neurotransmitters-cindy-hsu/",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 7825.985107421875,
+      "y": 5684.841278076172
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 3010,
+    "author": {
+      "id": "253",
+      "name": "fiza"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Testing_PDF_upload",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "Fiza tests pdf upload",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": {
+        "title": "",
+        "description": "",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/Psyc101syllabus_DE_2020S_final.pdf"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/Psyc101syllabus_DE_2020S_final.pdf",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 4266.604248046875,
+      "y": 7207.645843505859
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": true,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 3262,
+    "author": {
+      "id": "264",
+      "name": "naiverealists"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Lamarksim and Transgenerational Epigenetics (#1) (Michael Waters)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/sian-cooper-NEJcmvLFcws-unsplash-scaled.jpg",
+    "lockedImageURL": "",
+    "mediaType": "h5p",
+    "mediaFormat": "h5p",
+    "mediaDuration": 148,
+    "description": "This node introduces the concept of Lamarkism as it relates to the concept of transgenerational epigenetics",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=274",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8592.994873046875,
+      "y": 12201.036102294922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 3270,
+    "author": {
+      "id": "207",
+      "name": "modern"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Exploring Epigenetics and Human Diseases (David Yuan)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/Epigenetic-mechanisms-2-1568x880.jpg",
+    "lockedImageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/Epigenetic-mechanisms-2-1568x880.jpg",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "The following is a brief exploration of diseases that may have been caused or catalyzed by epigenetic mechanisms, as well as future potential treatment via epigenetic means.",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "Exploring Epigenetics and Human Diseases (David Yuan) – PSYC 101 2020 Summer: Tapestry",
+        "description": "Sharma, S., Kelly, T. K., & Jones, P. A. (2009). Epigenetics in cancer. (1), 27-36. doi:10.1093/carcin/bgp220",
+        "image": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/Epigenetic-mechanisms-2-1568x880.jpg",
+        "url": "http://localhost:8888/psyc101/exploring-epigenetics-and-human-diseases-david-yuan/"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/exploring-epigenetics-and-human-diseases-david-yuan/",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8006.221923828125,
+      "y": 11076.495086669922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 3272,
+    "author": {
+      "id": "264",
+      "name": "naiverealists"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Lamarkism and Transgenerational Epigenetics (#2) (Michael Waters)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/national-cancer-institute-J28Nn-CDbII-unsplash-scaled.jpg",
+    "lockedImageURL": "",
+    "mediaType": "h5p",
+    "mediaFormat": "h5p",
+    "mediaDuration": 0,
+    "description": "This node explores whether recent findings regarding DNA methylation can be considered a form of Lamarkism.",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=275",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8320.995361328125,
+      "y": 12578.013641357422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 3293,
+    "author": {
+      "id": "65",
+      "name": "scheemas"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Sickle Cell Anemia (Alisha Cheema)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "",
+        "description": "",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/SIckle-cell-anemia-.pptx"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/SIckle-cell-anemia-.pptx",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 9221.813720703125,
+      "y": 12662.130828857422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 3341,
+    "author": {
+      "id": "172",
+      "name": "superpsychos"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Let's Climb the Tree of Life (Tyrone Ly)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/orca-thumb-l-6.png",
+    "lockedImageURL": "",
+    "mediaType": "h5p",
+    "mediaFormat": "h5p",
+    "mediaDuration": 0,
+    "description": "Evolution: Let's Climb the Tree of Life (Tyrone Ly)",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=282",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 10805.918212890625,
+      "y": 10193.475555419922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 3741,
+    "author": {
+      "id": "207",
+      "name": "modern"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Epigenetics Visualized (David Yuan) *This is a H5P post",
+    "status": "publish",
+    "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/gene-3.jpg",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "For some unknown reasons I cannot add a H5P node to the tapestry. Here is the link to my HP5 post, sorry for the Inconvience.",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": {
+        "title": "Log In – PSYC 101 2020 Summer: Tapestry",
+        "description": "",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/login/?redirect_to=https%3A%2F%2Fubc.tapestry-tool.com%2Fpsyc101%2Fwp-admin%2Fadmin.php%3Fpage%3Dh5p&reauth=1"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-admin/admin.php?page=h5p&task=show&id=281",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8643.335205078125,
+      "y": 11245.501922607422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 3817,
+    "author": {
+      "id": "147",
+      "name": "brainfreeze"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Evolution and Survival (Simon Kim)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/FINCHES-1.jpg",
+    "lockedImageURL": "",
+    "mediaType": "text",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "Works Cited\nhttps://www.yourgenome.org/facts/what-is-evolution\n",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "First we must differentiate between evolution and adaptations. \n\nEvolution is the change in the frequency of a gene or trait in a population over multiple generations. \nAdaptation are a trait that increases reproductive success. (Produced by natural selection) (Adaptions are environmentally determined).\n\nCharles Darwin's theory of evolution states that evolution occurs through the process of natural selection.  So what is natural selection?\n\nNatural selection is the process in which an organism who has better characteristics which are better suited towards their environment are more likely to survive. By avoiding predators and being able to find mates their ability to pass their genes onto the next generation is higher than those who are not adept to their environment. \n\nNext to evolution stands adaptive radiation. Adaptive radiation is when an species splits off into a variety of new forms due to the changes to their environment. An excellent example of this would be the Galapagos Islands and the finches that reside on it. Each island with its different environment have made the finches to undergo adaptive radiation to better suit each island. The shapes of the beaks change with the type of food that is on each island to better suit the bird's survival on each island. \n\n"
+    },
+    "coordinates": {
+      "x": 12254.451416015625,
+      "y": 11597.705047607422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 3835,
+    "author": {
+      "id": "147",
+      "name": "brainfreeze"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Evolution (Simon Kim) (Brainfreeze)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/FINCHES-2.jpg",
+    "lockedImageURL": "",
+    "mediaType": "h5p",
+    "mediaFormat": "h5p",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=323",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 12625.026611328125,
+      "y": 11275.940399169922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 3914,
+    "author": {
+      "id": "120",
+      "name": "ccs1"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Ganglion Cells (Deandra Taufik)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "Ganglion Cells (Deandra Taufik) – PSYC 101 2020 Summer: Tapestry",
+        "description": "",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/tapestry/ganglion-cells-deandra-taufik/"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/tapestry/ganglion-cells-deandra-taufik/",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 7816.182861328125,
+      "y": 15282.417938232422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4139,
+    "author": {
+      "id": "67",
+      "name": "pandas"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Bipolar Disorder (Jarrett Lee)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/800px-Bipolar_mood_shifts-2.png",
+    "lockedImageURL": "",
+    "mediaType": "wp-post",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": 2783,
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "Text"
+    },
+    "coordinates": {
+      "x": 11252.300048828125,
+      "y": 13419.901336669922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4187,
+    "author": {
+      "id": "63",
+      "name": "micatherben"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "The Epigenetics and Importance of Twin Studies (Ben Du)",
+    "status": "publish",
+    "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/twins-fraternal-identical-1.jpg",
+    "lockedImageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/twins-fraternal-identical-1.jpg",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "Please open post via the link provided, as formatting is altered when I try and add the post as an internal WordPress post on Tapestry.",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "The Epigenetics and Importance of Twin Studies (Ben Du) – PSYC 101 2020 Summer: Tapestry",
+        "description": "Looking beyond the genotype itself, and exploring the different methods of expression of a same genotype can yield very fascinating, and rewarding results benefiting the scientific community and the public, through the incredibly useful resource of twin studies. Both fraternal and identical twins are undeniably useful within epigenetics and may assist researchers in revealing certain findings that would be drastically more difficult without twin studies. Their importance was highlighted throughout this post and they contribute immensely within this field.",
+        "image": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/twins-fraternal-identical-1.jpg",
+        "url": "http://localhost:8888/psyc101/the-epigenetics-and-importance-of-twin-studies-ben-du-3/"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/the-epigenetics-and-importance-of-twin-studies-ben-du-3/",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 7763.265380859375,
+      "y": 10601.982391357422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4195,
+    "author": {
+      "id": "63",
+      "name": "micatherben"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Genetics of Human Psychological Differences (Min Han)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "Genetics of Human Psychological Differences (Min Han) – PSYC 101 2020 Summer: Tapestry",
+        "description": "",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/genetics-of-human-psychological-differences-min-han/"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/genetics-of-human-psychological-differences-min-han/",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 10342.357666015625,
+      "y": 11269.254852294922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4202,
+    "author": {
+      "id": "120",
+      "name": "ccs1"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "The Evolution of Colour Vision (Michael Choi)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/human-evolution-promo-gettyimages-122223741.jpg",
+    "lockedImageURL": "",
+    "mediaType": "wp-post",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "Extension of Colour Vision node on the \"evolution of colour vision.\"",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": 3212,
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "\tEvolution has had a great impact on the mechanisms of colour perception. This is often correlated with the evolution of having to recognize proper food sources and survival. We can see the evidence based on the evolution of colour vision in herbivores, primates, and nocturnals specifically. Studying how light and colour create a unique perception of identifying food for all species helps to create a better understanding of how our eyes have developed in order to perceive colour for survival. \n\nThe colour vision of herbivores have evolved around the essential need to find the proper leaves or flowers to feed on. For example, hummingbirds rely on their ability to identify the particular colours of flowers to know their targets. Most herbivores do not see colours in the trichromatic ways humans have evolved to perceive colour. Rather, many herbivores possess the dichromatic vision as they are able to distinguish the colourful plants apart from the green leaves. Unlike the herbivores, nocturnals have developed in a different fashion in term of eyesight and colour vision\n\nNocturnal animals’ eyesights have evolved with less-developed colour vision, however it attracts the adequate light necessary to function to find food during darker nights. This allows environments that may be pitch black to primates, be “dim” lighting for nocturnal animals. Due to having to see in such dark conditions, nocturnals possess big eyes that contain many more rods that can help sense very dim, scattered lights that do not process a coloured images the same way having many cones in their eyes would. This contrasts the evolution of the trichromatic vision that most primates have evolved into using.\n\n\tIn terms of primates such as monkeys, apes, and of course humans, we have evolved into diurnal (daytime) eye activity to help us identify foods such as fruits and leaves. The early primates’ transition into diurnal activities allowed the development of the highly advantageous trichromatic colour vision that allowed for identification of finding fruit (as the “fruit theory” stated in the past), and the adaptability to survive in daylight by perceiving accurate colour vision.\n\n\tIn the end, the evidence shows that the evolution of colour vision has revolved around the idea of survival, which translates into the need to find food sources. As nocturnal bats differ from omnivorous humans, who differ from herbivorous deers, the necessary perception of light and colour has caused the eyes of different species to evolve in different formations and theoretical methods (eg. trichromatic theory) in order for survival.\n\nBibliography\n\nhttps://link.springer.com/chapter/10.1007/978-3-319-42096-7_8\n\nhttps://en.wikipedia.org/wiki/Color_vision#:~:text=Color%20vision%20is%20an%20ability,distributions)%20independently%20of%20light%20intensity.\n\nhttps://northernwoodlands.org/outside_story/article/night-vision-how-animals-see\n"
+    },
+    "coordinates": {
+      "x": 8797.806396484375,
+      "y": 13488.777313232422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4367,
+    "author": {
+      "id": "73",
+      "name": "phrenologists"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "RNA Processing (Jaron Sander)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/RNAProcessing-1.png",
+    "lockedImageURL": "",
+    "mediaType": "wp-post",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "This post describes how RNA gets processed in eukaryotes between transcription and translation.",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": 2795,
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8629.269775390625,
+      "y": 11185.956024169922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4384,
+    "author": {
+      "id": "225",
+      "name": "brainpower"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Week 7: DNA Methylation (Khulud Sadiq)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": {
+        "title": "Week-7: DNA Methylation (KhuludSadiq) – PSYC 101 2020 Summer: Tapestry",
+        "description": "Understanding this mechanism is essential and allows us to recognize that the way that environmental factors influence epigenetic can impact the function and development of each cell.",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/week-7-dna-methylation-khuludsadiq/"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/week-7-dna-methylation-khuludsadiq-2/",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8438.841064453125,
+      "y": 12567.274383544922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4604,
+    "author": {
+      "id": "191",
+      "name": "panlamzam"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Fill in the blanks week 8 practice material (Coby Zamoranos)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/Macular_degeneration_800.jpg",
+    "lockedImageURL": "",
+    "mediaType": "h5p",
+    "mediaFormat": "h5p",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=197",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 8894.876708984375,
+      "y": 13015.437469482422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4609,
+    "author": {
+      "id": "191",
+      "name": "panlamzam"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "The Gambling industry and its reliance on visual stimulus",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/download.jpg",
+    "lockedImageURL": "",
+    "mediaType": "text",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "A reflection of a application of stimulus",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "Week 8’s reading involves the topic of signal detection theory and sensory adaptation. In reference to the textbook: signal detection theory refers to reacting to stimulus that is in contrast to current mental state and surroundings, and sensory adaptation refers to adapting to stimuli.\n\nBoth these ideas relate to each other in terms of explaining how humans react to changing or non changing stimuli. The gambling industry, mainly casinos, uses the idea of perception and changing stimuli to keep customers playing. \n\nSignal detection theory: \nSignal detection can be utilized primarily in slot machines. When one is playing a slot, players are often focused, hoping to catch matching lines of images. At this stage, slot machine displays are stoic, and quiet. Typically the only images moving are the moving lines of the game. This use of forcing the player to visually pay attention affects the attentiveness of their mental state, which is what the signal detection theory tackles. When a player wins a sum on a slot machine, casino’s often use flashing lights and sounds to notify that a player has won. Oftentimes, bright and colorful animations accompany the notification of a win. This contrast of slow and menial visuals into bright flashing lights and animation influences the player on the value of winning. Slot machines use the idea of visual stimulation intensity and its psychological influence. \n\nSensory adaptation:\nSensory adaptation similarly plays into the idea of contrast. Compared to a home,  the ambiance of a casino with its flashing lights and sounds is naturally more stimulating. This over-stimulating environment is used to an advantage, as when a player returns home, the individual is forced to adapt to a less stimulating environment. This could make way for a sense of wanting to return to what they had adapted to, a high stimulating environment. \n\nBelow is some info on casino and visual stimuli. \nUniversity of British Columbia. \"Casino lights and sounds encourage risky decision-making.\" ScienceDaily. ScienceDaily, 29 October 2018. <www.sciencedaily.com/releases/2018/10/181029130911.htm>.\n"
+    },
+    "coordinates": {
+      "x": 9105.881591796875,
+      "y": 14818.362274169922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4622,
+    "author": {
+      "id": "155",
+      "name": "freudianslips"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Darwin's Theory of Evolution (Crystal Chu)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/darwins-theory-of-evolution-crystal-chu/",
+    "lockedImageURL": "",
+    "mediaType": "wp-post",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "The first part of freudianslips Tapestry project.",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": 1857,
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 11084.072509765625,
+      "y": 11147.086883544922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4626,
+    "author": {
+      "id": "155",
+      "name": "freudianslips"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Darwin's Theory of Evolution True or False Quiz (Crystal Chu)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/charlesdarwin-2.png",
+    "lockedImageURL": "",
+    "mediaType": "h5p",
+    "mediaFormat": "h5p",
+    "mediaDuration": 0,
+    "description": "Read through the \"Darwin's Theory of Evolution\" and test yourself!",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=233",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 11554.072509765625,
+      "y": 11147.086883544922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4752,
+    "author": {
+      "id": "66",
+      "name": "fastandcurious"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Anatomy of the Ear (Cassie Hull)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "lockRows": false,
+      "finishButtonText": "Finish",
+      "confirmationTitleText": "Section Complete!",
+      "confirmationBodyText": "Would you like to continue?",
+      "continueButtonText": "Continue",
+      "cancelLinkText": "Cancel",
+      "linkMetadata": {
+        "title": "",
+        "description": "",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/crossword-sdG2zEVmoU-1.pdf"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/crossword-sdG2zEVmoU-1.pdf",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 11328.863525390625,
+      "y": 14489.144500732422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4769,
+    "author": {
+      "id": "264",
+      "name": "naiverealists"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Yamanaka Factors and iPS Cells (Amy Xu)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/PSYCH-tapestry-7.jpg",
+    "lockedImageURL": "",
+    "mediaType": "h5p",
+    "mediaFormat": "h5p",
+    "mediaDuration": 1003,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=319",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 9349.236572265625,
+      "y": 13077.220672607422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4846,
+    "author": {
+      "id": "166",
+      "name": "kwrl"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Colour Vision (Karat Wannissorn)",
+    "status": "publish",
+    "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/image-1-300x213.jpeg",
+    "lockedImageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/image-1-300x213.jpeg",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "see link",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "W8: Color Vision (Karat Wannissorn) – PSYC 101 2020 Summer: Tapestry",
+        "description": "An example of colour constancy is in the image of strawberries below. The strawberries are illuminated with blue light and are objectively grey. However, a lot of people see red, since our brain considers the context of the picture. (Strawberries are typically red, so they are constantly perceived as red.) This theory also proves that colour is a psychophysical property, not totally physical.",
+        "image": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/image-1-300x213.jpeg",
+        "url": "http://localhost:8888/psyc101/w8-color-vision-karat-wannissorn/"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/w8-color-vision-karat-wannissorn/",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 7947.372802734375,
+      "y": 12836.722625732422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4853,
+    "author": {
+      "id": "166",
+      "name": "kwrl"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Light and Sound Waves (Ricardo Liu)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "see link",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "Light and Sound Waves (Ricardo Liu) – PSYC 101 2020 Summer: Tapestry",
+        "description": "Moreover, the amplitude of sound waves affects the loudness of the sounds that we perceive. Large amplitudes result in loud sounds, while small amplitudes result in quite sounds. The loudness of sounds is often measured as decibels (dB). Sounds that are harmful to our auditory system measure around 80 dB. Nonetheless, our perception of loudness is not only influenced by the amplitude of sound waves. The way amplitude and frequency interact with each other also plays an important role in determining the loudness of sounds. For instance, some sounds that are out of our audible range will be inaudible no matter how large the amplitude of the sound wave is.",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/light-and-sound-waves-ricardo-liu/"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/light-and-sound-waves-ricardo-liu/",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 7883.666259765625,
+      "y": 15329.677703857422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 4936,
+    "author": {
+      "id": "181",
+      "name": "alpcognition"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Inattentional Blindness (Amanda Baker)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "",
+        "description": "",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/Inattentional-Blindness-Psych-101-2nd-Tapestry-Week-9-3.pdf"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/Inattentional-Blindness-Psych-101-2nd-Tapestry-Week-9-3.pdf",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 13088.075439453125,
+      "y": 16906.415008544922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 5573,
+    "author": {
+      "id": "75",
+      "name": "psychkicks"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Inattentional Blindness: Explained (Nargiz Nasibova)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "url-embed",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": {
+        "title": "Inattentional blindness – PSYC 101 2020 Summer: Tapestry",
+        "description": "Inevitably, the phenomenon of inattentional blindness has created much discussion and debate amongst scientists and researchers. While still being explored and studied in more detail, such discussions have brought about questions such as “Why do certain stimuli catch our attention immediately while others go unnoticed?”, and “Do we still subconsciously perceive those stimuli that go unnoticed in our visual field?”.",
+        "image": "",
+        "url": "http://localhost:8888/psyc101/inattentional-blindness/"
+      },
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "http://localhost:8888/psyc101/inattentional-blindness/",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:"
+    },
+    "coordinates": {
+      "x": 13088.075439453125,
+      "y": 16898.754852294922
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 967,
+    "author": {
+      "id": "226",
+      "name": "brainz"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Methadone Treatment for Opioid Addiction [Brainz - Caitlin]",
+    "status": "publish",
+    "imageURL": "//i.huffpost.com/gen/1576930/thumbs/o-METHADONE-facebook.jpg",
+    "lockedImageURL": "",
+    "mediaType": "text",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "embed",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": null,
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "Over the past 3 years I've worked and volunteered at two local pharmacies to gain work experience and to observe the work done behind the counter. I came across many forms of psychoactive drugs, but I found particular interest in methadone, its frequent use and its unconventional dispensing method.\n\nMethadone is a synthetic painkiller used in a syrup-like form to treat and lessen withdrawal effects of opioid addiction. However, methadone is an opiate in and of itself, and due to its long-lasting effects (1-3 days) it could prolong addiction. For this reason, the pharmacy would generally be instructed to dispense small doses once a day and requires a signature log from the patient each time they receive a dose. Many other opioids, such as Kadian (morphine capsules) are also dispensed daily and require a pharmacist to sign off as a witness.\n\nThe opioid receptors in the brain bind to:\n-opiates (natural chemicals from opium poppies)\n-opioids (man-made chemicals)\n-endorphins (chemicals from the brain to reduce pain)\n\nOpioid receptors are widely distributed throughout the CNS, on peripheral neurons and the digestive track and trigger the reward system. The signals are sent through the ventral tegmental area (VTA), the nucleus accumbens and reaches the prefrontal cortex to activate a rewarding stimulus. Methadone binds to the opioid receptors and mimics the effects of naturally-produced endorphins as a way of “satisfying” the rush from opioids. Similar to an opioid, it also interrupts pain messages from the CNS but to reduce withdrawal symptoms. By gradually tapering or lowering the dose over time, the need for an endorphin rush decreases and eliminates opioid dependence.\n\nReferences: \nhttps://www.drugabuse.gov/publications/teaching-addiction-science/brain-actions-cocaine-opioids-marijuana\nhttps://americanaddictioncenters.org/methadone-addiction"
+    },
+    "coordinates": {
+      "x": 8383.013916015625,
+      "y": 5554.352020263672
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2316,
+    "author": {
+      "id": "273",
+      "name": "anonymousstans"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "The Structure and Function of Myelin (Eden V)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "text",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "A description of what myelin is constructed from in different parts of the nervous system and a more specific  explanation of how it functions.",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 0
+        },
+        {
+          "group": "unviewed",
+          "value": 1
+        }
+      ],
+      "mediaURL": "",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "?????????\n\n        Myelin is a type of Glial cell that insulates the axons of nerves in the nervous system by forming a sheath around the axons. Myelin cells are surrounded by a lipid bi-layer held together by lamellae and do not contain cytoplasm (Susuki, K 2010) They are formed from Schwann cells in the peripheral nervous system and Oligodendrocytes in the central nervous system. (Siegal, GJ et al 1999) In the PNS, one sheath is formed by one Schwann cell. In the CNS, oligodendrocytes produce multiple myelin sheaths. \n\n\tAxons can be myelinated or unmyelinated. The peripheral nervous system contains axons that are mostly myelinated while the central nervous system contains most of the axons in the body that are unmyelinated. This is because myelin increases the speed at which the impulse travels along the axon. This increased speed is needed for quick transfer of signal for motor function in the peripheral motor system to make longer distance is needed to travel to extremities (peace.saumag.edu 2020). \n\n??? ?????? ?????????\n\n      Because myelin is composed of a high number of lipids, it allows for insulation of the axon as lipids are nonpolar and have an exceptionally low attraction towards ions (Susuki, K 2010). Myelin also increases the distance between ions in the axon and extracellular ions. This prevents any ions needed for axon potential from leaking out into the extracellular fluid (Khan Academy 2016). The proper number of ions in a neuron needed for an action potential to fire must be maintained to allow for proper depolarization. If these ions were not maintained between Nodes of Ranvier, the electrical signal would not be passed on to the next node and the neuron would not function efficiently. \n\n????????? ??????????\n \n      In between each segment of myelin is an unmyelinated area called the Nodes of Ranvier. Nodes, as opposed to myelinated segments of axons, contain all the K+ and Na+ channels needed to allow for the reversal of membrane potential. Insulation allows for impulses to travel through the myelinated sheath to the next exposed area at the Nodes of Ranvier without needing to be regenerated in between which allows for ease of depolarization. This causes the signals to “jump” from node to node, therefore increasing the speed of conduction. This so-called “jumping” of signals is what is known as saltatory conduction. The signal does not actually jump, but instead activates ion channels in adjacent nodes down the axon (sciencedirect.com). \n\n????? ?????\n\n1.\tSiegel GJ, Agranoff BW, Albers RW, et al., editors. Philadelphia: Lippincott-Raven; 1999.\n\n2.\tCitation: Susuki, K. (2010) Myelin: A Specialized Membrane for Cell Communication. Nature Education 3(9):59\n\n3.\t“Myelination.” Peace.Saumag.Edu, 6 Sept. 2020, peace.saumag.edu/faculty/kardas/courses/GPWeiten/C3BioBases/Myelination.html#:%7E:text=Most%20of%20the%20myelinated%20axons,gray%2C%20hence%2C%20gray%20matter.\n\n4.\t“Action Potential Velocity (Article).” Khan Academy, 2016, www.khanacademy.org/test-prep/mcat/organ-systems/neuron-membrane-potentials/a/action-potential-velocity.\n\n5.\tEnrico Marani, Egbert A.J.F. Lakke, in The Human Nervous System (Third Edition), 2012\n"
+    },
+    "coordinates": {
+      "x": 11974.488037109375,
+      "y": 6622.139007568359
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 2756,
+    "author": {
+      "id": "99",
+      "name": "riot"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "The Role of Astroglia in the Tripartite Synapse (Eva Bhathena)",
+    "status": "publish",
+    "imageURL": "",
+    "lockedImageURL": "",
+    "mediaType": "text",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "Please copy and paste this link into another tab to access the information of this node.\n\nhttp://localhost:8888/psyc101/?p=709"
+    },
+    "coordinates": {
+      "x": 10369.719482421875,
+      "y": 6202.544769287109
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  },
+  {
+    "id": 3811,
+    "author": {
+      "id": "264",
+      "name": "naiverealists"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Epigenetic Aging (Amy Xu)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/epigenetics-1.jpg",
+    "lockedImageURL": "",
+    "mediaType": "text",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "",
+    "behaviour": "new-window",
+    "typeData": {
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": "",
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "Epigenetic clocks such as the multi-tissue Horvath clock, are used to determine one’s biological age; in comparison to our chronological age, biological age is a way to identify the state of our cells and chromosomes. Signs of biological aging includes shortening telomeres in which our chromosomes start fraying, senescent cells, and epigenetic-induced alterations in our DNA (refer back to methylation and histone).\n\nWe can slow down aging through maintaining a healthy lifestyle. While we are in our natural state, our body has enough energy conserved to focus on growing and reproducing, but in other cases, “survival” genes such as sirtuins, mTORs and AMPK can kick in to induce cellular repair and protection. We can create a similar scenario through maintaining a healthy diet, reducing protein intake, periodic fasting and high intensity work outs. Similarly, occasional changes in our environment and stepping out of our comfort zone can induce a similar effect.\n\nNow the question is: Is it possible to reverse aging?\nActually, studies that have been recently conducted in the past decade have shown signs of making breakthrough through arguably one of the greatest stem cell breakthrough since their discovery: the Yamanaka factors and the creation of induced pluripotent stem cells (iPS). \n\n[…Continue this topic be watching the related H5P content…]\n\nReferences:\nSinclair, D. A., & Oberdoerffer, P. (2009). The ageing epigenome: Damaged beyond repair? Ageing Research Reviews, 8(3), 189-198. https://doi-org.ezproxy.library.ubc.ca/10.1016/j.arr.2009.04.004\n\nVeritasium. (2019). How to Slow Aging (and even reverse it) [Film]. Retrieved from: https://www.youtube.com/watch?v=QRt7LjqJ45k"
+    },
+    "coordinates": {
+      "x": 8879.236572265625,
+      "y": 13077.220672607422
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [
+      4769
+    ],
+    "fitWindow": true
+  },
+  {
+    "id": 4063,
+    "author": {
+      "id": "91",
+      "name": "plato"
+    },
+    "type": "tapestry_node",
+    "size": "",
+    "title": "Transgenerational Epigenetics vs. Lamarckism (Shawn Yee)",
+    "status": "publish",
+    "imageURL": "http://localhost:8888/psyc101/wp-content/uploads/sites/4/2020/07/GIRAFFE-1.png",
+    "lockedImageURL": "",
+    "mediaType": "text",
+    "mediaFormat": "",
+    "mediaDuration": 0,
+    "description": "An overview of the similarities and history of transgenerational epigenetics and lamarckism.",
+    "behaviour": "embed",
+    "typeData": {
+      "lockRows": false,
+      "finishButtonText": "Finish",
+      "confirmationTitleText": "Section Complete!",
+      "confirmationBodyText": "Would you like to continue?",
+      "continueButtonText": "Continue",
+      "cancelLinkText": "Cancel",
+      "linkMetadata": null,
+      "progress": [
+        {
+          "group": "viewed",
+          "value": 1,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        },
+        {
+          "group": "unviewed",
+          "value": 0,
+          "extra": {
+            "nodeType": "root",
+            "unlocked": true
+          }
+        }
+      ],
+      "mediaURL": null,
+      "mediaWidth": 960,
+      "mediaHeight": 600,
+      "subAccordionText": "More content:",
+      "textContent": "A Brief History of Epigenetics\n\nEpigenetics, a term that was created in the late 1800s by cell biologists, used in a wide debate surrounding the field at the time: How is an organism, created out of many different cell types, arise out of a single fertilized egg? During this time, there were two main schools of thought: preformationism, which stated that cells had preformed elements which grew in size as the cell grew, and epigenesis, which thought that chemical reactions within the cell carried out an intricate developmental plan (Felsenfeld, 2014).\n\nThis development plan was supported by the discovery of DNA and chromosomes in cells, and eventually, the definition of epigenetics was modified in the past 50 years until its current definition: “the study of mitotically and/or meiotically heritable changes in gene function that cannot be explained by changes in DNA sequence” (Riggs et al., 1996, as cited in Felsenfeld, 2014). At present, two major epigenetic mechanisms include histone remodelling and DNA methylation (Barnes, 2020). These changes do not affect the actual sequence of DNA, but the structures around the DNA, evidently shown in the name epigenetics, as the Greek prefix “epi-” roughly translates to “above” or “near” (Genetics, 2020).\n\nThe subject of transgenerational epigenetics concerns how epigenetic effects are transferred across generations. Studies have showed that environmental factors can influence mice and their behaviours for quite a few generations (Barnes, 2020). To better understand this idea, let’s turn to a similar idea proposed by Jean-Baptiste Lamarck before Darwin’s theory of the evolution, now called Lamarckism.\n\n\nLamarckism\n\nLamarckism believed in the inheritance of “acquired traits,” which were traits gained through the experience of the organism. The conventional example that is used is the idea that giraffes developed long necks because during their lifetimes, they had to gradually stretch their necks to reach the leaves on higher and higher trees. This modification would then be subsequently passed down to the next generation of giraffes and so on, resulting in the overall increase in the lengths of giraffe necks (Michael, 2017).\n\nThis idea is incredibly similar to transgenerational epigenetics as it explores how the environmental is able to change the behaviour of subsequent generations. In the giraffe scenario, the pressure to extend your neck is analogous to the environmental effect in epigenetics.\n\nAlthough Lamarkism was eventually disregarded when Darwin’s theory of evolution came out, Darwin previously supported Lamarck’s ideas, incorporating it into his own theory. He proposed the idea of “gemmules”, which would modify the germline under environmental stress, effectively allowing the environment to have an effect on subsequent generations (Michael, 2017; Heard & Martienssen, 2014).\n\nTo end, one thing that I did find interesting during my research was that although there have not been very many concrete pieces of evidence for epigenetic inheritance in humans, our culture is quite Lamarckian-adjacent. We teach our children about certain ideas from our experiences with our environment which has the ability to change their behaviours, or phenotype (Heard & Martienssen, 2014). All in all, the similarities between transgenerational epigenetics and Lamarckism allow us to learn from their beliefs and clearly show how the past can resemble the present and even the future.\n\nBibiolography:\n\nBarnes, S. J. (2020). Week 7, Lecture 3: Basics of Genetics and Epigenetics. Department of Psychology, Univerisity of British Columbia.\n\nFelsenfeld, G. (2014). A Brief History of Epigenetics. Cold Spring Harbor Perspectives in Biology, 6(1). https://doi.org/10.1101/cshperspect.a018200\n\nGenetics Home Reference. (2020, July 7). What is epigenetics? https://ghr.nlm.nih.gov/primer/howgeneswork/epigenome\n\nHeard, E., & Martienssen, R. A. (2014). Transgenerational Epigenetic Inheritance: myths and mechanisms. Cell, 157(1), 95-109. https://doi.org/10.1016/j.cell.2014.02.045\n\nMichael, R. (2017, October 11). Lamarckism. Encyclopædia Britannica. Retrieved July 10, 2020, from https://www.britannica.com/science/Lamarckism/Experimental-testing-of-Lamarckism"
+    },
+    "coordinates": {
+      "x": 7388.451416015625,
+      "y": 11980.262176513672
+    },
+    "permissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "hideTitle": false,
+    "hideProgress": false,
+    "hideMedia": false,
+    "skippable": true,
+    "quiz": [],
+    "fullscreen": false,
+    "conditions": [],
+    "childOrdering": [],
+    "fitWindow": true
+  }
+]

@@ -1,0 +1,2979 @@
+{
+  "nodes": [
+    {
+      "id": 14813,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Research Methods Part II",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/Week4Banner.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the fourth week of the course! \n\nAssigned Readings\nYou should carefully read the assigned readings for this week of the course (i.e., OpenStax Psychology text: Chapter 2, Section 2.3) before proceeding on with this week of the course. You will have a chance to check your understanding of the readings.It's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 5993.106201171875,
+        "y": 7782.195037841797
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 5993.106201171875,
+      "fy": 7782.195037841797,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 16,
+      "x": 5993.106201171875,
+      "y": 7782.195037841797,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14815,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Experimentation",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/ExperimentationThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 413,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_k20uybhu/v/2/ev/5/flavorId/0_k6jae8g7/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 5725.836669921875,
+        "y": 7172.754608154297
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 5725.836669921875,
+      "fy": 7172.754608154297,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 17,
+      "x": 5725.836669921875,
+      "y": 7172.754608154297,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14817,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Describing Data I",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/DescribingData1thumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 268,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_s1hctij4/v/2/ev/5/flavorId/0_f2bdjq6p/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6318.407470703125,
+        "y": 8375.648162841797
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6318.407470703125,
+      "fy": 8375.648162841797,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 18,
+      "x": 6318.407470703125,
+      "y": 8375.648162841797,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14825,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Psychology FAQ",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/PsychologyFAQThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 227,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_9ciy95gj/v/2/ev/5/flavorId/0_g9f08ori/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 5883.985107421875,
+        "y": 8352.672821044922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "add",
+          "read"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 5883.985107421875,
+      "fy": 8352.672821044922,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 22,
+      "x": 5883.985107421875,
+      "y": 8352.672821044922,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14827,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Deception in Psychological Research",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/DeceptionThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 329,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_yiplcces/v/2/ev/5/flavorId/0_xmh3uk8u/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6029.630126953125,
+        "y": 6647.102447509766
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "add",
+          "read"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6029.630126953125,
+      "fy": 6647.102447509766,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 23,
+      "x": 6029.630126953125,
+      "y": 6647.102447509766,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14865,
+      "author": {
+        "id": "60",
+        "name": "knuckleheads"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Increasing Internal Validity (Samantha Banfield)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "TED-Ed. (2014, April 28). Not all scientific studies are created equal | David H. Schwartz [Video]. Youtube. https://www.youtube.com/watch?v=GUpd2HJHUt8&feature=emb_logo",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=7",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 5607.633544921875,
+        "y": 6202.865020751953
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "contributor": [],
+        "subscriber": [],
+        "editor": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 5607.633544921875,
+      "fy": 6202.865020751953,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 42,
+      "x": 5607.633544921875,
+      "y": 6202.865020751953,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14871,
+      "author": {
+        "id": "60",
+        "name": "knuckleheads"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Good Research and the Disadvantages of Peer Review (Cole Stevens)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "When a researcher performs an experiment, they are typically working towards publishing their results. Researchers may be inclined to publish their results for many reasons: they may want to allow room for others to expand on their research, be credited for their discoveries, attain sponsors or research grants, or purely for the advancement of scientific knowledge. It is important however, that the research conducted is of high quality because inadequate research may create misleading information that could hamper other scientists, organizations, and the general public. To counter this, the majority of scientific studies undergo peer review, where other experts in the subject matter provide feedback. Section 2.3 of the textbook talks about the many advantages of peer review, but the following paragraph will counter this by highlighting the many disadvantages to consider as well.\n\nPeer review has many disadvantages associated with it that must be taken into consideration. The peer review process takes time, thereby causing a delay in the spread of information. It also consumes the time of the peer-reviewer, who may become delayed in their own research. Papers that undergo the peer review process can be subject to the peer reviewers biases, such as through homophily by gender which stems from researchers tending to favour the research of peers from the same gender (Helmer, Schottdorf, Neef, & Battaglia, 2017). Traditionally, peer reviews are conducted with a single blind, where the peer reviewers remain anonymous but the author’s identity is revealed, which can lead to the reviewers providing biased feedback against the author. Double blind peer reviews are also used, but often scientific communities are so small the reviewers can identify the author based on the subject or writing style (Kelt, n.d.). Peer reviewers are often considered “gate-keepers” because they help determine whether research is good enough to be published. This is important because poor performance by peer reviewers may lead to low-quality research being published or high quality research being rejected. \n\nSources\n\nHelmer, M., Schottdorf, M., Neef, A., &amp; Battaglia, D. (2017). Author response: Gender bias in scholarly peer review. doi:10.7554/elife.21718.012\n\nKelt, M. (n.d.). Advantages and disadvantages of peer review. Retrieved June 18, 2020, from https://www.gcu.ac.uk/library/pilot/publication/peerreview/advantagesanddisadvantages/\n"
+      },
+      "coordinates": {
+        "x": 4780.495849609375,
+        "y": 6193.777984619141
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "contributor": [],
+        "subscriber": [],
+        "editor": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 4780.495849609375,
+      "fy": 6193.777984619141,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 45,
+      "x": 4780.495849609375,
+      "y": 6193.777984619141,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15135,
+      "author": {
+        "id": "163",
+        "name": "cathushi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Experimental Method (Catherine Leung)",
+      "status": "publish",
+      "imageURL": "//marketingland.com/wp-content/ml-loads/2017/01/test-experiment-science-chemistry-ss-1920.jpg",
+      "lockedImageURL": "",
+      "mediaType": "wp-post",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "Procedures for performing an experiment",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": 491,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6195.836669921875,
+        "y": 7172.754608154297
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "contributor": [],
+        "subscriber": [],
+        "editor": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6195.836669921875,
+      "fy": 7172.754608154297,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 138,
+      "x": 6195.836669921875,
+      "y": 7172.754608154297,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 18108,
+      "author": {
+        "id": "203",
+        "name": "sealcats"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4 - Experimentation (Hayley Kim)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 111,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=138",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 5141.479736328125,
+        "y": 6664.816619873047
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 5141.479736328125,
+      "fy": 6664.816619873047,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 585,
+      "x": 5141.479736328125,
+      "y": 6664.816619873047,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 21409,
+      "author": {
+        "id": "203",
+        "name": "sealcats"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Experimentation - How do you design an experiment? (Hayley Kim)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "wp-post",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": 1217,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 5623.154997166014,
+        "y": 6256.618996212403
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 5623.154997166014,
+      "fy": 6256.618996212403,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 587,
+      "x": 5623.154997166014,
+      "y": 6256.618996212403,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14819,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Describing Data II",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/DescribingData2Thumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 440,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_osz67gf3/v/2/ev/5/flavorId/0_rl0uum59/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6730.668212890625,
+        "y": 8923.998748779297
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "add",
+          "read"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6730.668212890625,
+      "fy": 8923.998748779297,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 19,
+      "x": 6730.668212890625,
+      "y": 8923.998748779297,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14823,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Demonstration: CreatingScatterplots",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/ScatterplotsThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 450,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_qaothl1y/v/2/ev/5/flavorId/0_kelog538/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6255.179931640625,
+        "y": 8944.11898803711
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "add",
+          "read"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6255.179931640625,
+      "fy": 8944.11898803711,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 21,
+      "x": 6255.179931640625,
+      "y": 8944.11898803711,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 17807,
+      "author": {
+        "id": "203",
+        "name": "sealcats"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4 - Statistics quiz (Marcus Kwan)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=141",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 6822.477294921875,
+        "y": 8614.134490966797
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6822.477294921875,
+      "fy": 8614.134490966797,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 583,
+      "x": 6822.477294921875,
+      "y": 8614.134490966797,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 17809,
+      "author": {
+        "id": "203",
+        "name": "sealcats"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4 - Descriptive Statistics (Marcus Kwan)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "url-embed",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/week-4-descriptive-statistics-marcus-kwan/",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 7646.012451171875,
+        "y": 8594.819061279297
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 7646.012451171875,
+      "fy": 8594.819061279297,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 584,
+      "x": 7646.012451171875,
+      "y": 8594.819061279297,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15091,
+      "author": {
+        "id": "284",
+        "name": "verdunseth"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: A Deep Dive into Research Methods Pt.1 (Imogen Seth)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Case Studies ",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=112",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 5984.346923828125,
+        "y": 9285.165985107422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "contributor": [],
+        "subscriber": [],
+        "editor": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 5984.346923828125,
+      "fy": 9285.165985107422,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 125,
+      "x": 5984.346923828125,
+      "y": 9285.165985107422,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14923,
+      "author": {
+        "id": "60",
+        "name": "knuckleheads"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The Ethics of Placebos (Samantha Banfield)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "The course textbook (Spielman, 2017) discusses the placebo effect when talking about ways to control for differences between participants. In a standard randomly controlled trial (RCT), one group of participants receives experimental intervention, while the other receives an indistinguishable placebo control (Annoni, 2018, p. 476). This is most commonly used when testing effects of a medication, to ensure any differences measured are due to what is being tested, which preserves a trial’s internal validity (Speilman, 2017, p. 54).\n\nHowever, there has long been debate over the ethics of placebos and placebo effects in clinical research, which the TED-Ed video only briefly mentions (Annoni 2018, p. 463). While many support placebo-controlled trials, it is still debated whether it is ethical to use placebos over active controls (Annoni 2018, p. 481).\n\nIn the last 50 years, the double-blind, placebo-controlled RCT has been widely renowned as the “gold-standard” of clinical research (Annoni 2018, p. 477). In contrast, Annoni (2018) discusses the RCT dilemma, which addresses the conflict between clinical research and clinical practice: the best way to test the effectiveness of a treatment may not be the best way to treat a participant’s condition (Annoni 2018). Deception is objectionable on the grounds that it limits participant autonomy and can breach researcher-participant trust, but when placebos are prescribed within appropriate ethical limits, Foddy (2009) argues that these grounds do not apply (p. 4). Perhaps one of the most well known examples of deception in research is the Tuskegee experiment, where the control group was left untreated despite the fact that penicillin was named an effective treatment for syphilis during the course of the experiment (Foddy, 2009, 8). Doctors should only provide placebos, argues Foddy (2019), when there is no better treatment or therapy that the patient is willing to take (p. 9).\n\nCritics of placebo-controlled trials favour the use of active-controlled trials (ACTs) instead, where the control group receives an already proven effective treatment which is tested against an experimental treatment (Annoni 2018, 477).\n\nSources:\nAnnoni, M. (2018). Chapter Eighteen – The Ethics of Placebo Effects in Clinical Practice and Research. International Review of Neurobiology; 139, 463-484\nFoddy, B. (2009) A Duty to Deceive: Placebos in Clinical Practice, The American Journal of Bioethics, 9:12, 4-12, DOI: 10.1080/15265160903318350\nSpielman, R. M. (2017). Psychology. Houston, Texas 77005: OpenStax."
+      },
+      "coordinates": {
+        "x": 5166.332275390625,
+        "y": 5787.638458251953
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 5166.332275390625,
+      "fy": 5787.638458251953,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 66,
+      "x": 5166.332275390625,
+      "y": 5787.638458251953,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14873,
+      "author": {
+        "id": "60",
+        "name": "knuckleheads"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Ethics of Not Publishing Results (Cole Stevens)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 782,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=12",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 4210.567626953125,
+        "y": 6240.521026611328
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "contributor": [],
+        "subscriber": [],
+        "editor": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 4210.567626953125,
+      "fy": 6240.521026611328,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 46,
+      "x": 4210.567626953125,
+      "y": 6240.521026611328,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14985,
+      "author": {
+        "id": "60",
+        "name": "knuckleheads"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Forms of Inferential Reasoning (Kristin Conrad)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "wp-post",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": 742,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 4885.645751953125,
+        "y": 5830.224761962891
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 4885.645751953125,
+      "fy": 5830.224761962891,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 93,
+      "x": 4885.645751953125,
+      "y": 5830.224761962891,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15141,
+      "author": {
+        "id": "163",
+        "name": "cathushi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Experimental Groups and Variables (Catherine Leung)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 216,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=62",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6665.836669921875,
+        "y": 7172.754608154297
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6665.836669921875,
+      "fy": 7172.754608154297,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber"
+      ],
+      "index": 140,
+      "x": 6665.836669921875,
+      "y": 7172.754608154297,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15183,
+      "author": {
+        "id": "163",
+        "name": "cathushi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Bias in Experimentation (Yushi Nakajima)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "wp-post",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "The bias that exists in experimentation",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": 249,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 6665.836669921875,
+        "y": 7172.754608154297
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6665.836669921875,
+      "fy": 7172.754608154297,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 159,
+      "x": 6665.836669921875,
+      "y": 7172.754608154297,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15187,
+      "author": {
+        "id": "163",
+        "name": "cathushi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Experimental Groups and Variables (Catherine Leung) H5P",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 216,
+      "description": "Experimental Groups and Variables ",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=62",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 6665.836669921875,
+        "y": 7172.754608154297
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6665.836669921875,
+      "fy": 7172.754608154297,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 161,
+      "x": 6665.836669921875,
+      "y": 7172.754608154297,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15189,
+      "author": {
+        "id": "163",
+        "name": "cathushi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Experimental Groups and Variables (Catherine Leung)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 216,
+      "description": "Experimental Groups and Variables ",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=62",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 6375.257080078125,
+        "y": 6866.880584716797
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6375.257080078125,
+      "fy": 6866.880584716797,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 162,
+      "x": 6375.257080078125,
+      "y": 6866.880584716797,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14821,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Making Inferences",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/InferentialThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 268,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_s1hctij4/v/2/ev/5/flavorId/0_f2bdjq6p/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 7145.258544921875,
+        "y": 9336.951141357422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "add",
+          "read"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 7145.258544921875,
+      "fy": 9336.951141357422,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 20,
+      "x": 7145.258544921875,
+      "y": 9336.951141357422,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14823,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Demonstration: CreatingScatterplots",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/ScatterplotsThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 450,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_qaothl1y/v/2/ev/5/flavorId/0_kelog538/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6255.179931640625,
+        "y": 8944.11898803711
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "add",
+          "read"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6255.179931640625,
+      "fy": 8944.11898803711,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 21,
+      "x": 6255.179931640625,
+      "y": 8944.11898803711,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15105,
+      "author": {
+        "id": "284",
+        "name": "verdunseth"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: A Deep Dive into Research Methods Pt.2 (Imogen Seth)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Experiments ",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=116",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6505.072021484375,
+        "y": 9428.096649169922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6505.072021484375,
+      "fy": 9428.096649169922,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber"
+      ],
+      "index": 129,
+      "x": 6505.072021484375,
+      "y": 9428.096649169922,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 14987,
+      "author": {
+        "id": "60",
+        "name": "knuckleheads"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "WEIRD findings (Kristin Conrad)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "url-embed",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/weird-findings-kristin-conrad-2/?preview=true",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 5720.495849609375,
+        "y": 6195.309722900391
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 5720.495849609375,
+      "fy": 6195.309722900391,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 94,
+      "x": 5720.495849609375,
+      "y": 6195.309722900391,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15185,
+      "author": {
+        "id": "163",
+        "name": "cathushi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Blinding in Experiments (Yushi Nakajima)H5P",
+      "status": "publish",
+      "imageURL": "//www.sciencealert.com/images/2020-02/processed/010-blind-trials_1024.jpg",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 285,
+      "description": "Examples of limiting bias in experimentation",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=52",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 7135.836669921875,
+        "y": 7172.754608154297
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 7135.836669921875,
+      "fy": 7172.754608154297,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 160,
+      "x": 7135.836669921875,
+      "y": 7172.754608154297,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15191,
+      "author": {
+        "id": "163",
+        "name": "cathushi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Bias in Psychology (Yushi Nakajima)",
+      "status": "publish",
+      "imageURL": "//study.com/cimages/videopreview/videopreview-full/x4aoxbqqyb.jpg",
+      "lockedImageURL": "",
+      "mediaType": "wp-post",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "The types of bias that exist in experimentation",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": 249,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 7135.836669921875,
+        "y": 7170.544158935547
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 7135.836669921875,
+      "fy": 7170.544158935547,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 163,
+      "x": 7135.836669921875,
+      "y": 7170.544158935547,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15207,
+      "author": {
+        "id": "284",
+        "name": "verdunseth"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: A Deep Dive into Research Methods Pt.2 (Inez Verdun)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Part 3. ",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=147",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 6799.559814453125,
+        "y": 9859.079071044922
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6799.559814453125,
+      "fy": 9859.079071044922,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 171,
+      "x": 6799.559814453125,
+      "y": 9859.079071044922,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15209,
+      "author": {
+        "id": "284",
+        "name": "verdunseth"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: A Deep Dive into Research Methods Pt.4 (Inez Verdun)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=148",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 6237.317626953125,
+        "y": 9847.080047607422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 6237.317626953125,
+      "fy": 9847.080047607422,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 172,
+      "x": 6237.317626953125,
+      "y": 9847.080047607422,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 15193,
+      "author": {
+        "id": "163",
+        "name": "cathushi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Blinding in Experimentation (Yushi Nakajima) H5P",
+      "status": "publish",
+      "imageURL": "//www.sciencealert.com/images/2020-02/processed/010-blind-trials_1024.jpg",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 285,
+      "description": "The ways bias is reduced during experimentation",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=52",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 7605.836669921875,
+        "y": 7172.754608154297
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 7605.836669921875,
+      "fy": 7172.754608154297,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 164,
+      "x": 7605.836669921875,
+      "y": 7172.754608154297,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    }
+  ],
+  "links": [
+    {
+      "source": 14813,
+      "target": 14815,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 19
+    },
+    {
+      "source": 14813,
+      "target": 14817,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 20
+    },
+    {
+      "source": 14813,
+      "target": 14825,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 25
+    },
+    {
+      "source": 14815,
+      "target": 14827,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 26
+    },
+    {
+      "source": 14815,
+      "target": 14865,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 57
+    },
+    {
+      "source": 14815,
+      "target": 14871,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 60
+    },
+    {
+      "source": 14815,
+      "target": 15135,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 160
+    },
+    {
+      "source": 14815,
+      "target": 18108,
+      "value": 1,
+      "type": "",
+      "index": 601
+    },
+    {
+      "source": 14815,
+      "target": 21409,
+      "value": 1,
+      "type": "",
+      "index": 603
+    },
+    {
+      "source": 14817,
+      "target": 14819,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 21
+    },
+    {
+      "source": 14817,
+      "target": 14823,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 23
+    },
+    {
+      "source": 14817,
+      "target": 17807,
+      "value": 1,
+      "type": "",
+      "index": 599
+    },
+    {
+      "source": 14817,
+      "target": 17809,
+      "value": 1,
+      "type": "",
+      "index": 600
+    },
+    {
+      "source": 14825,
+      "target": 15091,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 145
+    },
+    {
+      "source": 14865,
+      "target": 14923,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 81
+    },
+    {
+      "source": 14871,
+      "target": 14873,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 61
+    },
+    {
+      "source": 14871,
+      "target": 14985,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 114
+    },
+    {
+      "source": 15135,
+      "target": 15141,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 162
+    },
+    {
+      "source": 15135,
+      "target": 15183,
+      "value": 1,
+      "type": "",
+      "index": 182
+    },
+    {
+      "source": 15135,
+      "target": 15187,
+      "value": 1,
+      "type": "",
+      "index": 184
+    },
+    {
+      "source": 15135,
+      "target": 15189,
+      "value": 1,
+      "type": "",
+      "index": 185
+    },
+    {
+      "source": 14819,
+      "target": 14821,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 22
+    },
+    {
+      "source": 14819,
+      "target": 14823,
+      "value": 1,
+      "type": "",
+      "appearsAt": "",
+      "index": 24
+    },
+    {
+      "source": 15091,
+      "target": 15105,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 149
+    },
+    {
+      "source": 14985,
+      "target": 14987,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 115
+    },
+    {
+      "source": 15183,
+      "target": 15185,
+      "value": 1,
+      "type": "",
+      "index": 183
+    },
+    {
+      "source": 15189,
+      "target": 15191,
+      "value": 1,
+      "type": "",
+      "index": 186
+    },
+    {
+      "source": 15105,
+      "target": 15207,
+      "value": 1,
+      "type": "",
+      "index": 211
+    },
+    {
+      "source": 15105,
+      "target": 15209,
+      "value": 1,
+      "type": "",
+      "index": 212
+    },
+    {
+      "source": 15191,
+      "target": 15193,
+      "value": 1,
+      "type": "",
+      "index": 187
+    }
+  ],
+  "settings": {
+    "tapestrySlug": "psyc101-98a-2020s",
+    "title": "PSYC 101-98A 2020S",
+    "status": "publish",
+    "backgroundUrl": "",
+    "autoLayout": false,
+    "nodeDraggable": true,
+    "defaultPermissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "showAccess": false,
+    "superuserOverridePermissions": false,
+    "defaultDepth": 3
+  },
+  "rootId": 14813
+}

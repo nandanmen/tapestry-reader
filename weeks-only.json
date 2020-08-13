@@ -1,0 +1,818 @@
+{
+  "nodes": [
+    {
+      "id": 42,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Weekly Topics",
+      "status": "publish",
+      "imageURL": "//cdn.dribbble.com/users/7118/screenshots/4705330/calendar_2x.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "text",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "This node is the launch point for nodes that represent each weeks content in the course."
+      },
+      "coordinates": {
+        "x": 3575.193603515625,
+        "y": 7607.051727294922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": true,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        102
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 56,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 3: Research Methods Part 1",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/AP.PSYC_.1x_2_Banner.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the third week of the course!\n\nAssigned Readings\nYou should carefully read the assigned readings for this week of the course (i.e., OpenStax Psychology text: Chapter 2 Introduction; Chapter 2, Sections 2.1, 2.2, and 2.4) before proceeding on with this week of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 5345.331787109375,
+        "y": 7670.059783935547
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 119,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 1: Course Overview & Organization",
+      "status": "publish",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Student_teacher_in_China.jpg",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "This first week of the course involves a number of organizational activities (e.g., forming communities of learning) and also a quiz related to the syllabus and the learning tips video."
+      },
+      "coordinates": {
+        "x": 4158.755126953125,
+        "y": 7580.591033935547
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": true,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 157,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 2: What is Psychology?",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/AP.PSYC_.1x_1_Banner.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the second week of the course!\n\nAssigned Readings\nYou should carefully read the assigned readings for this week of the course (i.e., OpenStax Psychology text: Chapter 1, Introduction and Chapter 1, Sections 1.1 to 1.4) before proceeding on with the rest of the materials for this week of the course. You will have a chance to check your understanding of the readings.It's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 4723.8994140625,
+        "y": 7603.486785888672
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 252,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Research Methods Part II",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/Week4Banner.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the fourth week of the course! \n\nAssigned Readings\nYou should carefully read the assigned readings for this week of the course (i.e., OpenStax Psychology text: Chapter 2, Section 2.3) before proceeding on with this week of the course. You will have a chance to check your understanding of the readings.It's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 5993.106201171875,
+        "y": 7782.195037841797
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 330,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 5: Neuroanatomy",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/Week5Thumb-1.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the fifth week of the course! The video in this section details what you can expect from this part of the course.\n\nImportant note about weeks 5 and 6 of this course\n\nWeeks 5 and 6 of this course will require a greater time commitment from you than the other parts of this course. Please plan accordingly.\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., OpenStax Psychology text: Chapter 3, Introduction and Chapter 3, sections 3.2 to 3.5) before proceeding on with this part of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 6763.454345703125,
+        "y": 8129.594451904297
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        336
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 439,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 6: Neurophysiology",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/Week6thumb.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the sixth week of the course! The video in this section details what you can expect from this week of the course.\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., section 10.4 of the OpenStax Psychology text) before proceeding on with this part of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 8134.540283203125,
+        "y": 10092.832977294922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        441
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 898,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 7: Genetics, Evolutionary Psychology, and Behaviour",
+      "status": "publish",
+      "imageURL": "https://ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/Week7Thumb.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the seventh week of the course! The video in this section details what you can expect from this week of the course.\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., Chapter 3, Section 3.1 of the OpenStax Psychology text) before proceeding. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 9659.143798828125,
+        "y": 11745.068328857422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 2142,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 8: Visual System",
+      "status": "publish",
+      "imageURL": "https://ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/101Week7Thumb-4.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the eighth week of the course!\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., OpenStax Psychology text: Chapter 5 Introduction; Chapter 5, Sections 5.1 to 5.3) before proceeding on with this part of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 9737.560791015625,
+        "y": 13693.025360107422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 2208,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 9: Other Sensory Systems, Attention, & Perception",
+      "status": "publish",
+      "imageURL": "https://ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/somatosensoryThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the ninth week of the course!\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., OpenStax Psychology text: Chapter 5, Sections 5.4 to 5.6) before proceeding on with this part of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 11169.843017578125,
+        "y": 15988.614227294922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [
+        {
+          "type": "date_passed",
+          "nodeId": 0,
+          "date": "2020-07-09",
+          "time": "00:00:00",
+          "timezone": "America/Vancouver"
+        }
+      ],
+      "childOrdering": [
+        2212
+      ],
+      "fitWindow": true
+    }
+  ],
+  "links": [
+    {
+      "source": 439,
+      "target": 898,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0
+    },
+    {
+      "source": 119,
+      "target": 42,
+      "value": 1,
+      "type": "",
+      "appearsAt": ""
+    },
+    {
+      "source": 157,
+      "target": 119,
+      "value": 1,
+      "type": "",
+      "appearsAt": ""
+    },
+    {
+      "source": 56,
+      "target": 157,
+      "value": 1,
+      "type": "",
+      "appearsAt": ""
+    },
+    {
+      "source": 56,
+      "target": 252,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0
+    },
+    {
+      "source": 252,
+      "target": 330,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0
+    },
+    {
+      "source": 330,
+      "target": 439,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0
+    },
+    {
+      "source": 898,
+      "target": 2142,
+      "value": 1,
+      "type": ""
+    },
+    {
+      "source": 2142,
+      "target": 2208,
+      "value": 1,
+      "type": ""
+    }
+  ],
+  "settings": {
+    "tapestrySlug": "psyc101-98a-2020s",
+    "title": "PSYC 101-98A 2020S",
+    "status": "publish",
+    "backgroundUrl": "",
+    "autoLayout": false,
+    "nodeDraggable": true,
+    "defaultPermissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "showAccess": false,
+    "superuserOverridePermissions": false,
+    "defaultDepth": 3
+  },
+  "rootId": 42
+}

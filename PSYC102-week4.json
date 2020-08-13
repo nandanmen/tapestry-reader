@@ -1,0 +1,3597 @@
+{
+  "nodes": [
+    {
+      "id": 130,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Research Methods II",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc102/wp-content/uploads/sites/21/2020/06/Week4Banner.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the fourth week of the course! The video in this section details what you can expect from this week of the course.\n\nAssigned Readings\n\nYou should carefully read the assigned readings for this week of the course (i.e., OpenStax Psychology text: Chapter 2, Section 2.3) before proceeding on with this week of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 2816.9664306640625,
+        "y": 3705.404249191284
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2816.9664306640625,
+      "fy": 3705.404249191284,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 17,
+      "x": 2816.9664306640625,
+      "y": 3705.404249191284,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 135,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Psychology FAQ",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc102/wp-content/uploads/sites/21/2020/06/PsychologyFAQThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 227,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_9ciy95gj/v/2/ev/5/flavorId/0_g9f08ori/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 2288.8604736328125,
+        "y": 5150.486768722534
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2288.8604736328125,
+      "fy": 5150.486768722534,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 18,
+      "x": 2288.8604736328125,
+      "y": 5150.486768722534,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 141,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Experimentation",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc102/wp-content/uploads/sites/21/2020/06/ExperimentationThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 413,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_k20uybhu/v/2/ev/5/flavorId/0_k6jae8g7/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 2724.7261962890625,
+        "y": 3192.553663253784
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2724.7261962890625,
+      "fy": 3192.553663253784,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 19,
+      "x": 2724.7261962890625,
+      "y": 3192.553663253784,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 149,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Describing Data I",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc102/wp-content/uploads/sites/21/2020/06/DescribingData1thumb-3.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 268,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0.0054348459887917,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0.9945651540112083,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_s1hctij4/v/2/ev/5/flavorId/0_f2bdjq6p/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 2923.8143310546875,
+        "y": 4441.060743331909
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2923.8143310546875,
+      "fy": 4441.060743331909,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 21,
+      "x": 2923.8143310546875,
+      "y": 4441.060743331909,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 145,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Deception in Psychological Research",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc102/wp-content/uploads/sites/21/2020/06/DeceptionThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 329,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_yiplcces/v/2/ev/5/flavorId/0_xmh3uk8u/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 2495.8101806640625,
+        "y": 2703.5508556365967
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2495.8101806640625,
+      "fy": 2703.5508556365967,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 20,
+      "x": 2495.8101806640625,
+      "y": 2703.5508556365967,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 405,
+      "author": {
+        "id": "160",
+        "name": "lacroix"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Reporting research (Janella Juan)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 45,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=9",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 944.6923828125,
+        "y": 2379.529981613159
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 944.6923828125,
+      "fy": 2379.529981613159,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 41,
+      "x": 944.6923828125,
+      "y": 2379.529981613159,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 407,
+      "author": {
+        "id": "160",
+        "name": "lacroix"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Selecting and Assigning Experimental Participants (Janella Juan)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "A common observation is the use of college and university students to partake in a research study (Spielman, 2017, p. 55). An example that students of Psychology 102 can relate to are the research studies we sign up for in order to fulfill our human subject pool (HSP) credits. However, a question arises. Are college students a plausible representation for the general population? College students are known to be more educated, liberal, younger and diverse. The main issue that emanates is that it will be difficult to generalize the findings from college students to the whole population (Spielman, 2017, p. 56).\nA preferable method is the ‘random sample’ technique. A random sample is a subgroup of a larger population in which every person has the opportunity of being selected to participate in a study. This technique is preferred because the results from the study can be used to generalize a large population. Furthermore, this technique may remove the potential biases that may arise. Researchers can only use their results to generalize a population if their sample is large enough. The minimum should be between 100-200 participants (Spielman, 2017, p. 56).\nAfter gathering your participants, they need to be separated into two groups: a control group and an experimental group. An experimental group receives the independent variable being tested, while the control group does not. The participants should be assigned the groups through random assignment. Random assignment ensures that all the participants have the chance to be allocated to either group. There are a variety of statistical softwares that can achieve this (Spielman, 2017, p. 56).\nThe use of random assignment is crucial because it ensures sound experiment design. It makes it difficult to observe any systematic differences amidst both groups. Also, random assignment allows researchers to assume that the differences observed between the groups are due to the manipulation of the individual variable. Imagine you have a list of 100 participants and you are asked to separate them equally into two groups. You decide to allocate all male sounding names in one group and all female sounding names in the other. This is an example of a non-random assignment (Spielman, 2017, p. 56).\n\nSpielman, R. M. (2017). Psychology. Houston, Texas 77005: OpenStax."
+      },
+      "coordinates": {
+        "x": 1562.07177734375,
+        "y": 1601.9789562225342
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "contributor": [],
+        "subscriber": [],
+        "editor": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        409
+      ],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 1562.07177734375,
+      "fy": 1601.9789562225342,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 42,
+      "x": 1562.07177734375,
+      "y": 1601.9789562225342,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 429,
+      "author": {
+        "id": "160",
+        "name": "lacroix"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Correlational Research (Samantha Banfield)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "TED. (2012, November 5). The danger of mixing up causality and correlation: Ionica Smeets at TEDxDelft. | Iona Smeets [Video]. Youtube. https://www.youtube.com/watch?time_continue=1&v=8B271L3NtAw&feature=emb_logo",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=5",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 1407.3236083984375,
+        "y": 2760.335645675659
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 1407.3236083984375,
+      "fy": 2760.335645675659,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 43,
+      "x": 1407.3236083984375,
+      "y": 2760.335645675659,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 520,
+      "author": {
+        "id": "112",
+        "name": "adrenaline"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Illusory Correlation",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/wp-content/uploads/2020/06/Illusion.jpg",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Illusory correlation: when two variables are believed to be correlated, but in reality, they are unrelated. A common example is believing that there is a correlation between a full moon and strange behaviour. \n\nReference for image\n1. Types of Optical Illusions, (n.d.). Clear Eyes. https://www.cleareyes.com/eye-care-blog/201610/types-optical-illusions/"
+      },
+      "coordinates": {
+        "x": 2687.9361572265625,
+        "y": 3028.961133956909
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2687.9361572265625,
+      "fy": 3028.961133956909,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 52,
+      "x": 2687.9361572265625,
+      "y": 3028.961133956909,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 159,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Describing Data II",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc102/wp-content/uploads/sites/21/2020/06/DescribingData2Thumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 440,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0.0017669687009497,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0.9982330312990503,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_osz67gf3/v/2/ev/5/flavorId/0_rl0uum59/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 3091.5374755859375,
+        "y": 4883.407178878784
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3091.5374755859375,
+      "fy": 4883.407178878784,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 22,
+      "x": 3091.5374755859375,
+      "y": 4883.407178878784,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 167,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Demostration: Creating Scatterplots",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc102/wp-content/uploads/sites/21/2020/06/ScatterplotsThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 450,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_qaothl1y/v/2/ev/5/flavorId/0_kelog538/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 2673.6002197265625,
+        "y": 4961.770948410034
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2673.6002197265625,
+      "fy": 4961.770948410034,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 24,
+      "x": 2673.6002197265625,
+      "y": 4961.770948410034,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 393,
+      "author": {
+        "id": "160",
+        "name": "lacroix"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4 - Correlation coefficient (Yilian Zhao)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Oftentimes in research, observations are made that lead to researchers believing that a relationship exists between two variables. In psychology, this is called a correlation coefficient. In order to determine if a relationship exists, data is often first plotted on a graph in the form of a scatter plot, where each axis is a different variable, and a dot is placed for each data point. In this way, general trends in the data can be seen quickly, and where there exist trends, scientists can reasonably hypothesize that a relationship exists. For example, if the data on a scatter plot trends upwards, it is very possible that a positive relationship exists between the two variables being studied (Spielman, 2017, p. 50). The strength of the relationship can be numerically measured with the coefficient r, which can range from -1 to +1.\n\nFor example, you can decide to study the relationship between the hours of sleep and the GPA of students. If you observe that as the hours of sleep they get increases, so does their GPA, then you have observed a positive correlation. This means that as one variable increases, so does the other, and vice versa. If you observe the GPA decreasing as hours of sleep increases, then you have observed a negative correlation. This means that as one variable increases, the other decreases. Numerically, a negative correlation is represented with a correlation coefficient of a negative number value no further than -1, and a positive correlation is represented with a correlation coefficient of a positive number value no further than +1. When there exists no correlation, the correlation coefficient is 0 (Spielman, 2017, p. 49). An example of variables having no relationship or correlation would be if you decided to compare students’ shoe size with their GPA. \n\nThe correlation coefficient is useful as it not only numerically tells us what kind of relationship exists between two variables, but also the strength of the relationship. When the correlation is weaker, the correlation coefficient is closer to 0. For example, two variables with a correlation coefficient of 0.75 has a stronger positive correlation than two variables with a correlation coefficient of 0.25 (Spielman, 2017, p. 49). Finally, one important thing to note is that determining the fact that there exists a correlation between two variables does not determine causation between the variables. What this means is that through correlational research, we can be sure that there exists a relationship between hours of sleep and GPA, but we cannot scientifically say that getting more hours of sleep is the reason for higher GPA scores due to the fact that confounding variables may exist. A confounding variable is a third variable that is not tested for that may cause or contributes to the relationship observed.  In order to make the statement above, an experiment must be performed since in an experiment, the variables are isolated such that any relationship observed is definitely caused by the independent variable."
+      },
+      "coordinates": {
+        "x": 2542.529052734375,
+        "y": 5002.484815597534
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2542.529052734375,
+      "fy": 5002.484815597534,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 38,
+      "x": 2542.529052734375,
+      "y": 5002.484815597534,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 716,
+      "author": {
+        "id": "126",
+        "name": "freudalorians"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Freudalorians Week 4",
+      "status": "publish",
+      "imageURL": "//luminousmen.com/media/descriptive-and-inferential-statistics.jpeg",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "Freudalorians Week 4",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Hi Guys, \n\nWe will be exploring:\n - Correlation\n - Central Tendency and Measures of Variability\n - Statistical Significance \n\nClick on the nodes to get started!\n"
+      },
+      "coordinates": {
+        "x": 2234.9822998046875,
+        "y": 4946.437208175659
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2234.9822998046875,
+      "fy": 4946.437208175659,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 85,
+      "x": 2234.9822998046875,
+      "y": 4946.437208175659,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 1468,
+      "author": {
+        "id": "160",
+        "name": "lacroix"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Measures of central tendency (Yilian Zhao)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=11",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 3690.9786376953125,
+        "y": 4384.996290206909
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3690.9786376953125,
+      "fy": 4384.996290206909,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 164,
+      "x": 3690.9786376953125,
+      "y": 4384.996290206909,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 439,
+      "author": {
+        "id": "160",
+        "name": "lacroix"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Random Assignment",
+      "status": "publish",
+      "imageURL": "//www.youtube.com/watch?v=ULKE_e_uhRI",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "youtube",
+      "mediaDuration": 127,
+      "description": "This video further explains what random assignment is and it's importance.",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://www.youtube.com/watch?v=ULKE_e_uhRI",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "",
+        "youtubeID": "ULKE_e_uhRI"
+      },
+      "coordinates": {
+        "x": 1755.01416015625,
+        "y": 1171.3456554412842
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 1755.01416015625,
+      "fy": 1171.3456554412842,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 44,
+      "x": 1755.01416015625,
+      "y": 1171.3456554412842,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 537,
+      "author": {
+        "id": "160",
+        "name": "lacroix"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Generating an Experimental Hypothesis (Samantha Banfield)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "While correlational research can help identify relationships between variables, the only way to establish if there is cause-and-effect relationship is to conduct a scientific experiment (Spielman, 2017, p. 52). The world is full of curious phenomena. To find answers to our wonders we can use the scientific method. Psychological science relies on the scientific method, which is data-driven. We can break the scientific method down into various steps; first, in order to formulate a hypothesis, researchers must make observations (Spielman, 2017, p. 52). These observations can be of the world around us or of previously reported research, and cause researchers to ask questions that help formulate a hypothesis (Spielman, 2017, p. 52).  \n\nOne area that has been the focus of many studies, is the relationship between violent video games and aggression. We might notice that our younger brother has been getting into fights on the playground at school, and that this appears to have started after he began to spend an increasing amount of time playing a new violent video game at home. Although we have identified a relationship between these two variables, as mentioned in the node on correlational research, we cannot conclude that one is causing the other. We could instead hypothesize that playing violent video games is causing our brother to fight at school e.g.: Students who play violent video games are more likely to get into fights at school than students who do not play violent video games. Then, we can design an experiment to test this theory,\n\nOnce our hypothesis has been formed, we must identify and operationally define how we will measure our variables (Spielman, 2017, p. 53). In the example of video game violence and aggression, our independent variable of violent video games could be operationally defined as games that include gun violence (e.g. Grand Theft Auto). The dependent variable of aggression could be operationally defined as the number of reported physical altercations on the school playground. We could then design our experiment to compare playground behaviour between participants who play the violent video game, Grand Theft Auto, for a predetermined amount of time against participants who play a control game with no gun violence, such as Minecraft. Janella’s node on selecting and assigning experimental participants will go into more detail on how participants are gathered and assigned.\n\nSpielman, R. M. (2017). Psychology. Houston, Texas 77005: OpenStax."
+      },
+      "coordinates": {
+        "x": 1210.80126953125,
+        "y": 1477.4608898162842
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 1210.80126953125,
+      "fy": 1477.4608898162842,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 57,
+      "x": 1210.80126953125,
+      "y": 1477.4608898162842,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 522,
+      "author": {
+        "id": "112",
+        "name": "adrenaline"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The History of Illusory Correlation (Jingxin Guo)",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/wp-content/uploads/2020/06/v2-884d658caaf7905a4fe39ef585de6520_1440w-1.jpg",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "“Illusory correlation” refers to a tendency to see the relationship between 2 groups that are actually not related at all. This concept was coined by Loren and Jean Chapman (1967, 1969, 1971) to correct a false claim that many clinical psychologists believe about the ability of projective tests to identify patients’ personalities, such as Wheeler signs for homosexuality in Rorschach tests and aspects of drawings related to patients’ personalities.\n\nRorschach test, or Rorschach inkblot test, is a psychology test aims at analyzing a person’s personality and emotional functioning, in which patients are asked to say what they “see” in an inkblot (You can see the process of Rorschach test in the “Clinical Example” video). There were 32 clinicians report the 5 most common responses by homosexual men then many clinicians claimed that those 5 responses could help to distinguish between homosexual and heterosexual men. In fact, Wheeler signs (the 5 most common responses) cannot do that and they are unrelated. (Hardman, 2009)\n\nThe same situation happened in the Draw-a-Person test. Again, many clinicians believe that there is a relationship between persons’ personalities and their drawings. For instance, schizophrenic patients neglect to include “obvious anatomical parts like hands and eyes” (Julian Jaynes, 2000), and patients with paranoia would draw a figure with large eyes (Harris, 1963). However, there has been no evidence of this test that can identify patients’ personalities.\n\n\nReferences\n1.\tHardman, D. (2009). Illusory correlation. In Judgment and decision making: Psychological perspectives (p. 57). Malden, MA: BPS Blackwell.\n2.\tJulian Jaynes, J. (2000), The Origin of Consciousness in the Breakdown of the Bicameral Mind, Mariner Books, ISBN 978-0-618-05707-8\n3.\tHarris 1963: 148–152\n\n"
+      },
+      "coordinates": {
+        "x": 3089.0604248046875,
+        "y": 2878.868116378784
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3089.0604248046875,
+      "fy": 2878.868116378784,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 53,
+      "x": 3089.0604248046875,
+      "y": 2878.868116378784,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 524,
+      "author": {
+        "id": "112",
+        "name": "adrenaline"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Modern Consequences (Sarah Wissmann)",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/wp-content/uploads/2020/06/1-Brain.jpeg",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "“Illusory correlations keep us from seeing the real nature of violence in our society.” (Hyman, 2015)\n\nGiven the recent rise in awareness about racial discrimination from the Black Lives Matter movement, this seemed like a particularly relevant topic to help understand some of the psychology behind racism.\n\t\nThe perception that people of minorities are more likely to commit a crime is a real-life example of illusory correlation. \n\nWhy does this happen? \n\nWhen a person of a minority commits a crime, the media and society as a whole tend to blame the race/religion of the perpetrator. This creates an association between minorities and negative behaviours (Hyman, 2015). On the other hand, when a person of a majority commits a crime, their actions are considered abnormal (often a psychological issue of the individual - not the entire population) (Hyman, 2015).\n\nThis has also been shown in studies. In a 2018 study at the University of Louisville, study participants were told that there were two groups: S and T. Participants were then told about the groups’ positive and negative behaviours in a 2:1 ratio. They were shown fewer scenarios from the ‘T’ group, making it the minority group. At the end of the study, participants rated the T group as more likely to commit crimes (Carter, 2018). This demonstrates how a simplified study can be reflected in society.\n\nThe result is that we come to associate the minorities with negative actions leading to unfair and racist treatment. The effects of this on a population are being protested today. \n\nReferences \n1. Carter, Rachel A., \"Illusory correlation and perceived criminality.\" (2018). College of Arts & Sciences Senior Honors Theses. Paper 179. https://ir.library.louisville.edu/cgi/viewcontent.cgi?article=1229&context=honors\n2. Hyman, I. (2015, June 21). Race, Violence, and Illusory Correlations. Psychology Today. https://www.psychologytoday.com/ca/blog/mental-mishaps/201506/race-violence-and-illusory-correlations\n\nReferences for thumbnail images\n1. Begley, S., (2018). Can zapping people’s brains reduce violence? Controversial study sees potential. STAT. statnews.com/2018/07/02/brain-electric-stimulation-violence/\n2. Swanson, A., (2016). What you hate about waiting in line isn't the wait at all. Washington Post. https://durangoherald.com/articles/98489"
+      },
+      "coordinates": {
+        "x": 3110.7003173828125,
+        "y": 3357.600049972534
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3110.7003173828125,
+      "fy": 3357.600049972534,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 54,
+      "x": 3110.7003173828125,
+      "y": 3357.600049972534,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 163,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Making Inferences",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc102/wp-content/uploads/sites/21/2020/06/InferentialThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 268,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_s1hctij4/v/2/ev/5/flavorId/0_f2bdjq6p/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 2779.595947265625,
+        "y": 5550.636182785034
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2779.595947265625,
+      "fy": 5550.636182785034,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 23,
+      "x": 2779.595947265625,
+      "y": 5550.636182785034,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 167,
+      "author": {
+        "id": "4",
+        "name": "steven"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Demostration: Creating Scatterplots",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc102/wp-content/uploads/sites/21/2020/06/ScatterplotsThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 450,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_qaothl1y/v/2/ev/5/flavorId/0_kelog538/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 2673.6002197265625,
+        "y": 4961.770948410034
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2673.6002197265625,
+      "fy": 4961.770948410034,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 24,
+      "x": 2673.6002197265625,
+      "y": 4961.770948410034,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 497,
+      "author": {
+        "id": "132",
+        "name": "northernlights"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Correlation Description Matching (Maya Radhakrishna)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Matching game about correlation.",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 3460.4039306640625,
+        "y": 5390.131299972534
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3460.4039306640625,
+      "fy": 5390.131299972534,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 50,
+      "x": 3460.4039306640625,
+      "y": 5390.131299972534,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 1340,
+      "author": {
+        "id": "220",
+        "name": "raijamogi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Descriptive vs. Inferential Statistics (Munkhtur Myagmar)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=14",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 3507.0989990234375,
+        "y": 4739.705030441284
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3507.0989990234375,
+      "fy": 4739.705030441284,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 140,
+      "x": 3507.0989990234375,
+      "y": 4739.705030441284,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 1420,
+      "author": {
+        "id": "220",
+        "name": "raijamogi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Central Tendency (Raija McLean)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "When to use the mean, median, and mode for different types of data. ",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "There are many different types of data sets that would benefit from choosing the right measure of central tendency when describing the data. It is best to first determine the type variable you are analyzing. A nominal variable is one where there is no ranking or order to the variables in the data (ex. gender). The best measure of central tendency for these is the mode because it will show the most common variable. For ordinal variables, the best measure of central tendency is the median. This is because ordinal variables are ordered in a series (ex. performance), and therefore, the median will give you the central variable. For non-skewed data (bell curve), the best measure of central tendency is to use the mean and for skewed data the best is to use the median (skewed right or left). "
+      },
+      "coordinates": {
+        "x": 3665.7633056640625,
+        "y": 5183.426221847534
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3665.7633056640625,
+      "fy": 5183.426221847534,
+      "completed": true,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 151,
+      "x": 3665.7633056640625,
+      "y": 5183.426221847534,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 1900,
+      "author": {
+        "id": "132",
+        "name": "northernlights"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Measures of Variability and Central Tendency (Fallon Furkalo)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Multiple choice quiz on measures of variability and central tendency. ",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=130",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 2709.6102294921875,
+        "y": 5367.906690597534
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2709.6102294921875,
+      "fy": 5367.906690597534,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 221,
+      "x": 2709.6102294921875,
+      "y": 5367.906690597534,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 718,
+      "author": {
+        "id": "126",
+        "name": "freudalorians"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Correlation (Daina Wong)",
+      "status": "publish",
+      "imageURL": "//miro.medium.com/max/840/1*lYw_nshU1qg3dqbqgpWoDA.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Correlation ",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=60",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "lockRows": false,
+        "finishButtonText": "Finish",
+        "confirmationTitleText": "Section Complete!",
+        "confirmationBodyText": "Would you like to continue?",
+        "continueButtonText": "Continue",
+        "cancelLinkText": "Cancel",
+        "textContent": "Coefficient, positive, negative"
+      },
+      "coordinates": {
+        "x": 2216.63134765625,
+        "y": 5431.486280441284
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2216.63134765625,
+      "fy": 5431.486280441284,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber"
+      ],
+      "index": 86,
+      "x": 2216.63134765625,
+      "y": 5431.486280441284,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 728,
+      "author": {
+        "id": "126",
+        "name": "freudalorians"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Measures of Central Tendency (Atharva)",
+      "status": "publish",
+      "imageURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARcAAAC0CAMAAACJ8pgSAAAAjVBMVEX///8wMDAAAADX19d7e3v6+vru7u739/fr6+vk5OTS0tLe3t7y8vL19fX8/Py4uLirq6vKysrBwcGcnJy1tbXh4eFwcHCNjY2GhoaTk5NiYmKvr6+ampq+vr6mpqZLS0taWlpra2tERER/f39UVFReXl49PT0kJCQtLS0ODg4/Pz8YGBglJSU2NjYcHByJCOMcAAATqUlEQVR4nO1diXbaOhCdyKvkBbzvGwaytOT/P+/NyCZN+gSEtGlp63tOINiyLF1LI2k0MwZ2uFvwPQ4MDrDg/zjA3e8uwk3ibuFFiYUXNRZe1Fh4UWPhRY2FFzUWXtRYeFFj4UWNhRc1Fl7UWHhRY+FFjYUXNRZe1PjjeHmjRvtyyCA/fFWlc56/Bj9wmz+Nlwdj++qX1+HHk6FMuWp/5D5/GC9b783Pf4KXVcO1sAHgKxNWApLGg5V2PKk1dCZ8Wodz4lXimGA94b8HSx4J8YyD14Abm9oKU0QQhAHm5uJJOzZBnhFqEv+H2+GljYZIsAJgvbUh68zojrd5OZ8UdVTH4DyN0dQKIkRtQ4T1DyJ/ur5egbh3wCii9iEHM9IgZjG0vY2EFFHkghtF7aP5vtLcDi8MmgI6rGNc0a/CzPvGnXnRaqzOF4BMTL+RAlhXdA3AkMwZWBuA1IFRg4y5oOl46BGgivFMnkDpQLKD5PmP40VLwYSNBZxhhbuDC2kM5ixkkTFJQj4PMQ/YG9briRekYoLbQVX5MhnmIHlhkGCTAWPrPMQ++PEauP++0twOLyBGkqEmy0BWmPrIPCg7VMd7eOFFR7ETzMle8bINIgAatHMx8dJ5NpOMsnzua/F7C3MrvGwDcFIouak91oYleUFBex9StagpgYu9pK2mxIMDgtWUyoYicOcs3G41da2WaTYmd5FW8RhZMjcPP72XDC7jHC9+ENjyHzsI3tn8PoyyEziwts2QO0Ph4MN2U+SFRfIkzwKB1EiRQmhXwagNBb8PcqjrdB5iPOqAoIt1U7SDdbduIAsxWeZAKoJCANNF9O6p3jlerHwnpb9Z7nLrY9V9NyrI6V74x3MNsJU4OfaPaD6b5Dm1ChIpEm0uk7WYTuTH9mJNZ8cYwtz3c6QV8+GUDeTUs2p/fP8M+Gw/8rZ0K7Memmuq+GngNf9l9zrHi5sX9Ax5Wr1bXH0mUm38dTc7x4vZh9Rju7Am6eKwFR0UTIzMYPcxbH5REY8Q5WcLuVc4xwtPQxagMJeDQlKiGMPC6ZAzA7QcSotdzn7FHgks/Hkl/jU4xwvOQJng5TwBBa3QwMdZRI4LEoGDhl2evPICHO2WoFwynePlER93PYIz4P8Bi1OU6Q2OECOuQSpd0Lz8Ini8IsRvBWak3xJS+0peGPAeJwecpg5s3UyHQDtoYNP8/P4dvDjRhORy0tvCGV5wgoCzSYDdtNIAEdKXU/dcNzqcQwT6Lyznr8ZpXka2ycPIgD1jOIuxHw6Zh8//fvRH5nQ4lyqf/7hGcAVO8+L7hk8DI37KL0OOkvRpAEkq/50anj8Tt7JuPIJzlRR8Ay+5rCxQTYzfkfU33BovKYsuJREDcy4k0QbFSmhgV2h8fxcv9quCG6tXJx4uX5tEF5RuIoNCcfgaS+XfxItfvBLaufbqjHIz6C2KS7PnNxl+wzU1/U28HB63VLlNh7OikvW0bO/ypBOTCg7BNw3gPEDbbjUwugiizrc2MRS0MVIHeTfNETY5/tr1sJ8VM6tuQ9fcP9HaLd67YG9ieZv1KiAFcdPjSMrppuDu5WJ4s1WT/Jt40XrPAni23CgE79nC/w+u3AzYH0Vqtc61PSn+ASw86B/gENZRgJPssBqFS2rKlFkixzPuwZu3SgrXws5Stx51NMvbGrDKsGt6bhxNWevhpP2DL53fkqLUb9VC5zfx4sg5NEgtrkVtoDNxwV69NBd82nLJKlV0nJ5+x3Ap39DiI2TYrOwdaXndABvM9niNNme6PqpF9gYtXDau3EySWZN+KhjlXN2VvEC4BhV+Ey9URhvXXV4k5P/maE7a7Zc6Ii24ZCUVHad2lO7Bj2PgeE1DTxjX+HnrdEiLnR4zpROU4KjuhCcfk9m6Cz6tYijrUeBKD0/vRSh7mD+4oMRv4uXBELA1pw2QRwipvFDos5afQP0EuwTtjj3TQizlwHfYNoyV1aKoiAvgUS6FzMv+EWnGqSGY0bzLBE+0gYQrXMjGKWte2MCQOVGMNB0I5u0UBX5Xe6kF9Ca4BY4cz3VI7bvIco0/QT0loI62gSjIRFbd40CeamBi8ynHinrLup32PPL1632SzbTeD4/cQpc1kpcszwQ/AErvpsnakovSBj8PYKvfGC8pzcwcvdTxWRdMI2X3TnAWWd1uetZWimc2O2FFKJjZyJvWgg552VZgtWVJXcAuyjIQsGpfVPJxWbb+qzYHBxp4KGuHRcZTKcDOqtBghZ3grYMEulU5nlAZ/x5ephk5T+jLliWzE/ATl74kfD4dA8+TqU2sfIL9ji6wkkQOWm5Cic1vOxV+ktCajWTxhHmXJwEj8aasTUzAKZ/p1pCcWhrc2jrgh+HzD6sRX+Ov42UjssuJLuOv4wV+zmbK38fLz8HCixoLL2osvKix8KLGwosaCy9qLLyosfCixsKLGgsvaiy8qLHwosbCixoLL2osvKix8KLGwosaCy9qLLyosfCixlm/ia6fjEOCvnvtn5v3AOFPcjGJZ7upop++yxHC3faMPdS2PGUN9mbfqOvVdgoTou1woVxn24u7lmUQbP22oIyMSy5k/E54x+3C2ZDBYuDrq5PJAZz9CTvQwxvLBDNI1ckkXP+Sb8NZXoT0AEvS6m1BN5/gpNXPzFN5s3PuU9JaRpXBW4MN90QymPZpLwqPc7zYW2k0E2ZkWQGGkHe2hN+5vqZRPXxh2gKExiG5xgWGa0i5TV+WprkyT2NHG9LmZAwjvTs9MbVIvAGep7sJzbY98ga2NczAO5ZgylMX+L/cbNbA1CzixZYZuMIALK4NR7OH4MBt2Pv+tBNuCHWfPStftmHqQlMH0rixTckM0mjTdWZY23uyO1inbb+FkoU8P+FQqfSbiBlU24wXDOzugFX027QtXHKMS+Oc3NKwyFaUtrJeqzQG+ykCaHQ9KhIKLxB86X0InrEE8TqdbTORSystuLTyEI8Cm5VXkKWDW6dr3+ifhTbOEnG41wOs9DojYr5lcAUvdTD7H9GObxFK/yP8Ii9djWwGohjWzAG3tAv/UZ2F2m+iz2JnE5HPThhNWZN9l1lo0gaOnFb9IiCTFwnMOqyBLOSOruRkHiLIMz9qpIs5lieittJExLkkKaoKPjjSwKbDtpI5xVGC+R2Z6NUr2semDArlCHLJ/0jLAjejp/1olRE+0+fJAEnkMLnk5hZ4rHDX50Tl94jZCsRW2reRHc/RYZz8efbeVHu/s8ujYcs9mDmHB3/y+6QHkDpgdBld6JbT454cgFfrasUoMoEHLOPB2gI71crKB4dFVj0bXtJjTXehFDMMTFmr63h5xBrcB5P/0cBSjhngCBrjfaSZERlwtUh2z00oT9iRNA97wsMbSao3YOoWUOAEcoXD76b1wRrcyTK3wkFww/LkKN3vyQiOHFucwppDDzjwsMP/7w8Dn2o1mdQ1LMZCazmOWMyUmd2xAkWfR2U/WjVLX/QGbN2j+DEpVxvYneMF2wZ1neRoOzl9kb+3uQNpyhawcC7pCbMj35jw5iA+MRszKM0HPpsaUrW8p8km7MWR/oivc+AFm9WTOXhNRoR45c6Go7ifeCGry2cmLcOwWVEDmayk5eB0HEW/OCOkiTRq7E/Pk07z4jLPNgqBbXDAHLc2p7ba2StWlZ7ZVRWUPCiqtnR67AbN9kQuClhjAsEOxqbDphiFmHXD2tQ2SjNiwRMEeibwPvzFqvuOalUEvHfGzPnqlLBuhjtj24a54MFj9R0vppzeIa9hi/fpbXvUZOsuxZNMaSJvOWbNWYsPiIePal/f07wUaVmTK9agDyQ8emnUBtu1wMfkyR9lhv",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Measures of Central Tendency ",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=101",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "adsf"
+      },
+      "coordinates": {
+        "x": 1770.7156982421875,
+        "y": 5187.581495285034
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 1770.7156982421875,
+      "fy": 5187.581495285034,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber"
+      ],
+      "index": 88,
+      "x": 1770.7156982421875,
+      "y": 5187.581495285034,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 732,
+      "author": {
+        "id": "126",
+        "name": "freudalorians"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Statistical Significance Testing (Stefan Lehto-Borich)",
+      "status": "publish",
+      "imageURL": "//www.datavedas.com/wp-content/uploads/2018/05/1.1.2-INFERENTIAL-STATISTICS-1-S.jpg",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "P-value T-test in inferential statistics.",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=71",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 2616.501953125,
+        "y": 5382.959424972534
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2616.501953125,
+      "fy": 5382.959424972534,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber"
+      ],
+      "index": 89,
+      "x": 2616.501953125,
+      "y": 5382.959424972534,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 529,
+      "author": {
+        "id": "112",
+        "name": "adrenaline"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Clinical Example (Jingxin Guo)",
+      "status": "publish",
+      "imageURL": "//upload.wikimedia.org/wikipedia/commons/7/70/Rorschach_blot_01.jpg",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 97,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=29",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 3538.3331298828125,
+        "y": 3079.3877696990967
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3538.3331298828125,
+      "fy": 3079.3877696990967,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 56,
+      "x": 3538.3331298828125,
+      "y": 3079.3877696990967,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 526,
+      "author": {
+        "id": "112",
+        "name": "adrenaline"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The Other Line (Sarah Wissmann)",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/wp-content/uploads/2020/06/Line.jpg",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 80,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=51",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "hhh"
+      },
+      "coordinates": {
+        "x": 3584.0501708984375,
+        "y": 3537.760206222534
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3584.0501708984375,
+      "fy": 3537.760206222534,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 55,
+      "x": 3584.0501708984375,
+      "y": 3537.760206222534,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 1199,
+      "author": {
+        "id": "220",
+        "name": "raijamogi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Statistical Reasoning - Making Inferences (Raija McLean)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Quiz on making inferences with data! ",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=50",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 3918.76025390625,
+        "y": 5497.928663253784
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3918.76025390625,
+      "fy": 5497.928663253784,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 130,
+      "x": 3918.76025390625,
+      "y": 5497.928663253784,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 705,
+      "author": {
+        "id": "132",
+        "name": "northernlights"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Types of t-tests (Maya Radhakrishna)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "Brief description of the different types of t-tests and when to use them.",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Week 4's lecture indicated that you can use a t-test or an ANOVA test to find out if a statistic is significant. \n\n1. The one-sample t-test for the mean\n\nThis test is used when you only have one sample of the population. The test determines if your result is statistically significant compared to a predetermined baseline (usually zero). You determine your t-stat using a formula and plug this information into an excel function (T.DIST.2T or T.DIST.RT) to find a p-value. With a significance of 0.05, you need a p-value of under 0.05 to conclude that your results are statistically significant.\n\n2. Two-sample t-test for the difference of 2 independent means \n\nInstead of comparing your results to a predetermined baseline, you use this test to compare two different groups. The formula to find the t-stat is different, but you still use an excel formula to find the p-value and decide if your statistic is significant. \n\nReferences: \nBerkowitz, Jonathan (2020). Application of Statistics in Business [Class Lecture]. UBC Sauder School of Business, Vancouver, BC."
+      },
+      "coordinates": {
+        "x": 3187.4473876953125,
+        "y": 5926.722608566284
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3187.4473876953125,
+      "fy": 5926.722608566284,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 81,
+      "x": 3187.4473876953125,
+      "y": 5926.722608566284,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 707,
+      "author": {
+        "id": "132",
+        "name": "northernlights"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Types of t-tests (Maya Radhakrishna)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "Brief description of the different types of t-tests and when to use them.",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Week 4's lecture indicated that you can use a t-test or an ANOVA test to find out if a statistic is significant. \n\n1. The one-sample t-test for the mean\n\nThis test is used when you only have one sample of the population. The test determines if your result is statistically significant compared to a predetermined baseline (usually zero). You determine your t-stat using a formula and plug this information into an excel function (T.DIST.2T or T.DIST.RT) to find a p-value. With a significance of 0.05, you need a p-value of under 0.05 to conclude that your results are statistically significant.\n\n2. Two-sample t-test for the difference of 2 independent means \n\nInstead of comparing your results to a predetermined baseline, you use this test to compare two different groups. The formula to find the t-stat is different, but you still use an excel formula to find the p-value and decide if your statistic is significant. \n\nReferences: \nBerkowitz, Jonathan (2020). Application of Statistics in Business [Class Lecture]. UBC Sauder School of Business, Vancouver, BC."
+      },
+      "coordinates": {
+        "x": 3687.3692626953125,
+        "y": 5835.789991378784
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3687.3692626953125,
+      "fy": 5835.789991378784,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 82,
+      "x": 3687.3692626953125,
+      "y": 5835.789991378784,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 1744,
+      "author": {
+        "id": "220",
+        "name": "raijamogi"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Statistical vs. Practical Significance (Munkhtur)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "url-embed",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/statistical-significance-vs-practical-significance-munkhtur-myagmar/",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "lockRows": false,
+        "finishButtonText": "Finish",
+        "confirmationTitleText": "Section Complete!",
+        "confirmationBodyText": "Would you like to continue?",
+        "continueButtonText": "Continue",
+        "cancelLinkText": "Cancel",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 3927.8948974609375,
+        "y": 4636.135694503784
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 3927.8948974609375,
+      "fy": 4636.135694503784,
+      "completed": true,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber"
+      ],
+      "index": 198,
+      "x": 3927.8948974609375,
+      "y": 4636.135694503784,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 1905,
+      "author": {
+        "id": "132",
+        "name": "northernlights"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Problems with Measures of Central Tendency (Fallon Furkalo)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "An example of how the word 'average' can mean different things in different scenarios. ",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "When measures of central tendency are considered on their own, this can be a problem. They only vaguely describe a data set, and any single one of them can mean average. This is very important as the impreciseness of the word ‘average’ can be very useful in certain situations. For example, if we have two plots, one a perfect bell curve where the mean, median, and mode are all the same. The other is a negatively skewed distribution where the median is larger than the mean, and the mode is larger than the median. Say these two curves are for homelessness in the city of Vancouver in 2000 (the perfect bell curve) and 2015 (the skewed distribution). Based on your political standpoint, you can take the data set and come up with whatever scenario best fits your needs. For example, you could say, “The average number of homeless people has increased!” when describing the mode. You can say, “The average number of homeless people has decreased!” if you focus on the mean. Or you could say, “The average number of homeless people hasn’t changed!” if you concentrate on the median. This illustrates how useful the ambiguity of the word ‘average’ can be. It makes it incredibly easy to interpret data that best serve someone's needs."
+      },
+      "coordinates": {
+        "x": 2493.1365966796875,
+        "y": 5788.056592941284
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2493.1365966796875,
+      "fy": 5788.056592941284,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber",
+        "editor"
+      ],
+      "index": 222,
+      "x": 2493.1365966796875,
+      "y": 5788.056592941284,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 740,
+      "author": {
+        "id": "126",
+        "name": "freudalorians"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Correlation Review (H5P): Test your knowledge! (Daina Wong)",
+      "status": "publish",
+      "imageURL": "//i.ytimg.com/vi/GtV-VYdNt_g/maxresdefault.jpg",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 738,
+      "description": "H5P",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=59",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "adf"
+      },
+      "coordinates": {
+        "x": 2079.256591796875,
+        "y": 5906.545606613159
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2079.256591796875,
+      "fy": 5906.545606613159,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber"
+      ],
+      "index": 92,
+      "x": 2079.256591796875,
+      "y": 5906.545606613159,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 738,
+      "author": {
+        "id": "126",
+        "name": "freudalorians"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Measures of Central tendency",
+      "status": "publish",
+      "imageURL": "//cdn.analystprep.com/cfa-level-1-exam/wp-content/uploads/2020/01/06060132/page-45-1024x673.jpg",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 683,
+      "description": "Central tendency and Measures of Variability ",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=100",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "klj/"
+      },
+      "coordinates": {
+        "x": 1441.1868896484375,
+        "y": 5641.143751144409
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 1441.1868896484375,
+      "fy": 5641.143751144409,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber"
+      ],
+      "index": 91,
+      "x": 1441.1868896484375,
+      "y": 5641.143751144409,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    },
+    {
+      "id": 746,
+      "author": {
+        "id": "126",
+        "name": "freudalorians"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Statistical Significance Testing (Stefan)",
+      "status": "publish",
+      "imageURL": "//i.ya-webdesign.com/images/reading-transparent-kids-5.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 478,
+      "description": "Statistical Significance Testing",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc102/wp-admin/admin-ajax.php?action=h5p_embed&id=92",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "asdasd"
+      },
+      "coordinates": {
+        "x": 2730.98291015625,
+        "y": 5923.527784347534
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true,
+      "accessible": true,
+      "unlocked": true,
+      "fx": 2730.98291015625,
+      "fy": 5923.527784347534,
+      "completed": false,
+      "accordionProgress": [],
+      "mayUnlockNodes": [],
+      "permissionsOrder": [
+        "public",
+        "authenticated",
+        "contributor",
+        "subscriber"
+      ],
+      "index": 94,
+      "x": 2730.98291015625,
+      "y": 5923.527784347534,
+      "vy": 0,
+      "vx": 0,
+      "nodeType": "child"
+    }
+  ],
+  "links": [
+    {
+      "source": 130,
+      "target": 135,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 18
+    },
+    {
+      "source": 130,
+      "target": 141,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 19
+    },
+    {
+      "source": 130,
+      "target": 149,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 21
+    },
+    {
+      "source": 141,
+      "target": 145,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 20
+    },
+    {
+      "source": 141,
+      "target": 405,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 42
+    },
+    {
+      "source": 141,
+      "target": 407,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 43
+    },
+    {
+      "source": 141,
+      "target": 429,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 44
+    },
+    {
+      "source": 141,
+      "target": 520,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 53
+    },
+    {
+      "source": 149,
+      "target": 159,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 22
+    },
+    {
+      "source": 149,
+      "target": 167,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 24
+    },
+    {
+      "source": 149,
+      "target": 393,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 40
+    },
+    {
+      "source": 149,
+      "target": 716,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 83
+    },
+    {
+      "source": 149,
+      "target": 1468,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 145
+    },
+    {
+      "source": 407,
+      "target": 439,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 45
+    },
+    {
+      "source": 407,
+      "target": 537,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 58
+    },
+    {
+      "source": 520,
+      "target": 522,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 54
+    },
+    {
+      "source": 520,
+      "target": 524,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 55
+    },
+    {
+      "source": 159,
+      "target": 163,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 23
+    },
+    {
+      "source": 159,
+      "target": 167,
+      "value": 1,
+      "type": "",
+      "appearsAt": "",
+      "index": 25
+    },
+    {
+      "source": 159,
+      "target": 497,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 51
+    },
+    {
+      "source": 159,
+      "target": 1340,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 126
+    },
+    {
+      "source": 159,
+      "target": 1420,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 136
+    },
+    {
+      "source": 159,
+      "target": 1900,
+      "value": 1,
+      "type": "",
+      "index": 195
+    },
+    {
+      "source": 716,
+      "target": 718,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 84
+    },
+    {
+      "source": 716,
+      "target": 728,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 85
+    },
+    {
+      "source": 716,
+      "target": 732,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 86
+    },
+    {
+      "source": 522,
+      "target": 529,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 57
+    },
+    {
+      "source": 524,
+      "target": 526,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 56
+    },
+    {
+      "source": 163,
+      "target": 1199,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 115
+    },
+    {
+      "source": 497,
+      "target": 705,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 79
+    },
+    {
+      "source": 497,
+      "target": 707,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 80
+    },
+    {
+      "source": 1340,
+      "target": 1744,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 175
+    },
+    {
+      "source": 1900,
+      "target": 1905,
+      "value": 1,
+      "type": "",
+      "index": 196
+    },
+    {
+      "source": 718,
+      "target": 740,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 88
+    },
+    {
+      "source": 728,
+      "target": 738,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 87
+    },
+    {
+      "source": 732,
+      "target": 746,
+      "value": 1,
+      "type": "",
+      "appearsAt": 0,
+      "index": 89
+    }
+  ],
+  "settings": {
+    "tapestrySlug": "psyc101-98a-2020s",
+    "title": "PSYC 101-98A 2020S",
+    "status": "publish",
+    "backgroundUrl": "",
+    "autoLayout": false,
+    "nodeDraggable": true,
+    "defaultPermissions": {
+      "public": [],
+      "authenticated": [],
+      "editor": [],
+      "contributor": [],
+      "subscriber": []
+    },
+    "showAccess": false,
+    "superuserOverridePermissions": false,
+    "defaultDepth": 3
+  },
+  "rootId": 130
+}

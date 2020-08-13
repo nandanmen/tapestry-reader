@@ -1,0 +1,7279 @@
+{
+  "tapestry": {
+    "nodes": [
+      6674,
+      6677,
+      6679,
+      6681,
+      6683,
+      6685,
+      6687,
+      6689,
+      6691,
+      6693,
+      6695,
+      6697,
+      6699,
+      6701,
+      6703,
+      6705,
+      6707,
+      6709,
+      6711,
+      6713,
+      6715,
+      6717,
+      6719,
+      6721,
+      6723,
+      6725,
+      6727,
+      6729,
+      6731,
+      6733,
+      6735,
+      6737,
+      6739,
+      6741,
+      6743,
+      6745,
+      6747,
+      6749,
+      6751,
+      6753,
+      6755,
+      6757,
+      6759,
+      6761,
+      6763,
+      6765,
+      6767,
+      6769,
+      6771,
+      6773,
+      6775,
+      6777,
+      6779,
+      6781,
+      6783,
+      6785,
+      6787,
+      6789,
+      6791,
+      6793,
+      6795,
+      6797,
+      6799,
+      6801,
+      6803,
+      6805,
+      6807,
+      6809,
+      6811,
+      6813,
+      6815,
+      6817,
+      6819,
+      6821,
+      6823,
+      6825,
+      6827,
+      6829,
+      6831,
+      6833,
+      6835,
+      6837,
+      6839,
+      6841,
+      6843,
+      6845,
+      6847,
+      6850
+    ],
+    "groups": [],
+    "links": [
+      {
+        "source": 6674,
+        "target": 6677,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 0
+      },
+      {
+        "source": 6674,
+        "target": 6679,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 1
+      },
+      {
+        "source": 6674,
+        "target": 6681,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 2
+      },
+      {
+        "source": 6687,
+        "target": 6689,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 3
+      },
+      {
+        "source": 6691,
+        "target": 6693,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 4
+      },
+      {
+        "source": 6693,
+        "target": 6677,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 5
+      },
+      {
+        "source": 6693,
+        "target": 6695,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 6
+      },
+      {
+        "source": 6685,
+        "target": 6697,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 7
+      },
+      {
+        "source": 6683,
+        "target": 6697,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 8
+      },
+      {
+        "source": 6683,
+        "target": 6699,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 9
+      },
+      {
+        "source": 6687,
+        "target": 6701,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 10
+      },
+      {
+        "source": 6687,
+        "target": 6703,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 11
+      },
+      {
+        "source": 6687,
+        "target": 6705,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 12
+      },
+      {
+        "source": 6705,
+        "target": 6707,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 13
+      },
+      {
+        "source": 6697,
+        "target": 6693,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 14
+      },
+      {
+        "source": 6687,
+        "target": 6697,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 15
+      },
+      {
+        "source": 6689,
+        "target": 6685,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 16
+      },
+      {
+        "source": 6687,
+        "target": 6709,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 17
+      },
+      {
+        "source": 6709,
+        "target": 6711,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 18
+      },
+      {
+        "source": 6709,
+        "target": 6713,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 19
+      },
+      {
+        "source": 6713,
+        "target": 6715,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 20
+      },
+      {
+        "source": 6715,
+        "target": 6717,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 21
+      },
+      {
+        "source": 6713,
+        "target": 6719,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 22
+      },
+      {
+        "source": 6715,
+        "target": 6719,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 23
+      },
+      {
+        "source": 6709,
+        "target": 6721,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 24
+      },
+      {
+        "source": 6711,
+        "target": 6723,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 25
+      },
+      {
+        "source": 6709,
+        "target": 6725,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 26
+      },
+      {
+        "source": 6725,
+        "target": 6727,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 27
+      },
+      {
+        "source": 6725,
+        "target": 6729,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 28
+      },
+      {
+        "source": 6725,
+        "target": 6731,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 29
+      },
+      {
+        "source": 6733,
+        "target": 6731,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 30
+      },
+      {
+        "source": 6729,
+        "target": 6731,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 31
+      },
+      {
+        "source": 6725,
+        "target": 6735,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 32
+      },
+      {
+        "source": 6737,
+        "target": 6733,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 33
+      },
+      {
+        "source": 6739,
+        "target": 6727,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 34
+      },
+      {
+        "source": 6725,
+        "target": 6741,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 35
+      },
+      {
+        "source": 6741,
+        "target": 6743,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 36
+      },
+      {
+        "source": 6743,
+        "target": 6745,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 37
+      },
+      {
+        "source": 6745,
+        "target": 6747,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 38
+      },
+      {
+        "source": 6747,
+        "target": 6749,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 39
+      },
+      {
+        "source": 6749,
+        "target": 6743,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 40
+      },
+      {
+        "source": 6743,
+        "target": 6751,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 41
+      },
+      {
+        "source": 6745,
+        "target": 6753,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 42
+      },
+      {
+        "source": 6747,
+        "target": 6755,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 43
+      },
+      {
+        "source": 6753,
+        "target": 6757,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 44
+      },
+      {
+        "source": 6757,
+        "target": 6755,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 45
+      },
+      {
+        "source": 6741,
+        "target": 6759,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 46
+      },
+      {
+        "source": 6759,
+        "target": 6761,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 47
+      },
+      {
+        "source": 6759,
+        "target": 6763,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 48
+      },
+      {
+        "source": 6759,
+        "target": 6765,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 49
+      },
+      {
+        "source": 6759,
+        "target": 6767,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 50
+      },
+      {
+        "source": 6765,
+        "target": 6769,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 51
+      },
+      {
+        "source": 6769,
+        "target": 6771,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0,
+        "index": 52
+      },
+      {
+        "source": 6759,
+        "target": 6773,
+        "value": 1,
+        "type": "",
+        "index": 53
+      },
+      {
+        "source": 6773,
+        "target": 6777,
+        "value": 1,
+        "type": "",
+        "index": 54
+      },
+      {
+        "source": 6773,
+        "target": 6779,
+        "value": 1,
+        "type": "",
+        "index": 55
+      },
+      {
+        "source": 6779,
+        "target": 6775,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 56
+      },
+      {
+        "source": 6779,
+        "target": 6781,
+        "value": 1,
+        "type": "",
+        "index": 57
+      },
+      {
+        "source": 6773,
+        "target": 6775,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 58
+      },
+      {
+        "source": 6781,
+        "target": 6783,
+        "value": 1,
+        "type": "",
+        "index": 59
+      },
+      {
+        "source": 6783,
+        "target": 6785,
+        "value": 1,
+        "type": "",
+        "index": 60
+      },
+      {
+        "source": 6785,
+        "target": 6773,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 61
+      },
+      {
+        "source": 6773,
+        "target": 6787,
+        "value": 1,
+        "type": "",
+        "index": 62
+      },
+      {
+        "source": 6787,
+        "target": 6783,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 63
+      },
+      {
+        "source": 6775,
+        "target": 6777,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 64
+      },
+      {
+        "source": 6773,
+        "target": 6789,
+        "value": 1,
+        "type": "",
+        "index": 65
+      },
+      {
+        "source": 6789,
+        "target": 6777,
+        "value": 1,
+        "type": "",
+        "appearsAt": "",
+        "index": 66
+      },
+      {
+        "source": 6789,
+        "target": 6791,
+        "value": 1,
+        "type": "",
+        "index": 67
+      },
+      {
+        "source": 6789,
+        "target": 6793,
+        "value": 1,
+        "type": "",
+        "index": 68
+      },
+      {
+        "source": 6789,
+        "target": 6795,
+        "value": 1,
+        "type": "",
+        "index": 69
+      },
+      {
+        "source": 6789,
+        "target": 6797,
+        "value": 1,
+        "type": "",
+        "index": 70
+      },
+      {
+        "source": 6749,
+        "target": 6799,
+        "value": 1,
+        "type": "",
+        "index": 71
+      },
+      {
+        "source": 6769,
+        "target": 6801,
+        "value": 1,
+        "type": "",
+        "index": 72
+      },
+      {
+        "source": 6785,
+        "target": 6803,
+        "value": 1,
+        "type": "",
+        "index": 73
+      },
+      {
+        "source": 6765,
+        "target": 6805,
+        "value": 1,
+        "type": "",
+        "index": 74
+      },
+      {
+        "source": 6789,
+        "target": 6807,
+        "value": 1,
+        "type": "",
+        "index": 75
+      },
+      {
+        "source": 6807,
+        "target": 6809,
+        "value": 1,
+        "type": "",
+        "index": 76
+      },
+      {
+        "source": 6807,
+        "target": 6811,
+        "value": 1,
+        "type": "",
+        "index": 77
+      },
+      {
+        "source": 6807,
+        "target": 6813,
+        "value": 1,
+        "type": "",
+        "index": 78
+      },
+      {
+        "source": 6807,
+        "target": 6815,
+        "value": 1,
+        "type": "",
+        "index": 79
+      },
+      {
+        "source": 6807,
+        "target": 6817,
+        "value": 1,
+        "type": "",
+        "index": 80
+      },
+      {
+        "source": 6807,
+        "target": 6819,
+        "value": 1,
+        "type": "",
+        "index": 81
+      },
+      {
+        "source": 6819,
+        "target": 6821,
+        "value": 1,
+        "type": "",
+        "index": 82
+      },
+      {
+        "source": 6819,
+        "target": 6823,
+        "value": 1,
+        "type": "",
+        "index": 83
+      },
+      {
+        "source": 6819,
+        "target": 6825,
+        "value": 1,
+        "type": "",
+        "index": 84
+      },
+      {
+        "source": 6821,
+        "target": 6827,
+        "value": 1,
+        "type": "",
+        "index": 85
+      },
+      {
+        "source": 6819,
+        "target": 6829,
+        "value": 1,
+        "type": "",
+        "index": 86
+      },
+      {
+        "source": 6829,
+        "target": 6831,
+        "value": 1,
+        "type": "",
+        "index": 87
+      },
+      {
+        "source": 6829,
+        "target": 6833,
+        "value": 1,
+        "type": "",
+        "index": 88
+      },
+      {
+        "source": 6829,
+        "target": 6835,
+        "value": 1,
+        "type": "",
+        "index": 89
+      },
+      {
+        "source": 6829,
+        "target": 6837,
+        "value": 1,
+        "type": "",
+        "index": 90
+      },
+      {
+        "source": 6829,
+        "target": 6839,
+        "value": 1,
+        "type": "",
+        "index": 91
+      },
+      {
+        "source": 6829,
+        "target": 6841,
+        "value": 1,
+        "type": "",
+        "index": 92
+      },
+      {
+        "source": 6833,
+        "target": 6843,
+        "value": 1,
+        "type": "",
+        "index": 93
+      },
+      {
+        "source": 6833,
+        "target": 6845,
+        "value": 1,
+        "type": "",
+        "index": 94
+      },
+      {
+        "source": 6833,
+        "target": 6847,
+        "value": 1,
+        "type": "",
+        "index": 95
+      },
+      {
+        "source": 6674,
+        "target": 6850,
+        "value": 1,
+        "type": ""
+      }
+    ],
+    "settings": {
+      "tapestrySlug": "test-2",
+      "title": "test (2)",
+      "status": "publish",
+      "backgroundUrl": "",
+      "autoLayout": false,
+      "nodeDraggable": true,
+      "showAccess": true,
+      "defaultPermissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "superuserOverridePermissions": true
+    },
+    "rootId": 6674,
+    "id": 4131
+  },
+  "nodes": [
+    {
+      "id": 6674,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "PSYC101-98A Summer 2020",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/CanvasHeader_PSYC101-01-1.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "This psychology course will introduce you to some of the major research areas within the field of psychology: the scientific study of behaviour.  The course begins with an overview of psychology and its research methods, and then covers several fundamental topics in psychology such as biological psychology, learning and memory, and conscious states.\n\nThis section of PSYC101 is a 3-credit online distance education course.  It has both synchronous (live; e.g., Q&A sessions, discussion sessions, and group activities) and asynchronous  components (not live; e.g., prerecorded lectures, online quizzes, and self-assessments).  Because it is a distance education course, most course-related activities are asynchronous.\n\nThe course uses an open-source text that is supplemented by many video-based lectures and online resources. In addition, the course contains interviews with some leading research psychologists and some educational animations.\n\nThere are no prerequisites or corequisites for this course.  Note that you cannot receive credit for both PSYC101 and PSYC100."
+      },
+      "coordinates": {
+        "x": 3070.1826171875,
+        "y": 7646.440399169922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        42
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 6677,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Weekly Topics",
+      "status": "publish",
+      "imageURL": "//cdn.dribbble.com/users/7118/screenshots/4705330/calendar_2x.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "text",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "This node is the launch point for nodes that represent each weeks content in the course."
+      },
+      "coordinates": {
+        "x": 3575.193603515625,
+        "y": 7607.051727294922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": true,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        102
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 6679,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Getting Started with Tapestry",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "text"
+      },
+      "coordinates": {
+        "x": 3201.9666748046875,
+        "y": 8386.085906982422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6681,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Learning & Wellness Resources",
+      "status": "publish",
+      "imageURL": "//miro.medium.com/max/7016/1*H2pMY15Sxdwj8pzIQWeUSg.jpeg",
+      "lockedImageURL": "",
+      "mediaType": "wp-post",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": 50,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "text"
+      },
+      "coordinates": {
+        "x": 3121.4041748046875,
+        "y": 6991.755828857422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "contributor": [],
+        "subscriber": [],
+        "editor": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6683,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "History of Psychology",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/HistoryPsychologyThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 692,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_cyiqj2qk/v/2/ev/5/flavorId/0_91rsl1tg/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "text"
+      },
+      "coordinates": {
+        "x": 4292.83544921875,
+        "y": 8101.957733154297
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        167
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 6685,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "What is Psychology?",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/AP.PSYC_.1x_1_Banner.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 250,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_8vhe772m/v/2/ev/5/flavorId/0_9zuwo7dw/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the second week of the course! The short video in this section details what you can expect from this week of the course.\n\nAssigned Readings\nYou should carefully read the assigned readings for this week of the course (i.e., OpenStax Psychology text: Chapter 1, Introduction and Chapter 1, Sections 1.1 to 1.4) before proceeding on with the rest of the materials for this week of the course. You will have a chance to check your understanding of the readings.It's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 4373.35302734375,
+        "y": 7200.982757568359
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6687,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 3: Research Methods Part 1",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/AP.PSYC_.1x_2_Banner.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the third week of the course!\n\nAssigned Readings\nYou should carefully read the assigned readings for this week of the course (i.e., OpenStax Psychology text: Chapter 2 Introduction; Chapter 2, Sections 2.1, 2.2, and 2.4) before proceeding on with this week of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 5419.056884765625,
+        "y": 7640.569549560547
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6689,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The Need for Psychological Science",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/WhatisPsychologyThumbnail-1.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 577,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_c59kv177/v/2/ev/5/flavorId/0_njq20boy/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "text"
+      },
+      "coordinates": {
+        "x": 4770.932861328125,
+        "y": 7039.158172607422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6691,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Course Syllabus",
+      "status": "publish",
+      "imageURL": "//i.pinimg.com/236x/de/3c/e7/de3ce76af9b206147e88c44936c55de0--fitnesshumor-funny-fitness.jpg",
+      "lockedImageURL": "",
+      "mediaType": "url-embed",
+      "mediaFormat": "embed",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/Psyc101syllabus_DE_2020S_final.pdf",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "text"
+      },
+      "coordinates": {
+        "x": 3807.367919921875,
+        "y": 7207.645843505859
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        119
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 6693,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 1: Course Overview & Organization",
+      "status": "publish",
+      "imageURL": "//upload.wikimedia.org/wikipedia/commons/1/1f/Student_teacher_in_China.jpg",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "This first week of the course involves a number of organizational activities (e.g., forming communities of learning) and also a quiz related to the syllabus and the learning tips video."
+      },
+      "coordinates": {
+        "x": 4158.755126953125,
+        "y": 7580.591033935547
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": true,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6695,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Learning Tips",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/Screen-Shot-2020-05-14-at-04.17.12.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "h5p",
+      "mediaDuration": 521,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 3778.9462890625,
+        "y": 8085.659393310547
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6697,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 2: What is Psychology?",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/AP.PSYC_.1x_1_Banner.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the second week of the course!\n\nAssigned Readings\nYou should carefully read the assigned readings for this week of the course (i.e., OpenStax Psychology text: Chapter 1, Introduction and Chapter 1, Sections 1.1 to 1.4) before proceeding on with the rest of the materials for this week of the course. You will have a chance to check your understanding of the readings.It's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 4723.8994140625,
+        "y": 7603.486785888672
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6699,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Contemporary Psychology",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/Contemporary-Psychology-1.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 638,
+      "description": "efrwewer",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_egg2ja1p/v/2/ev/5/flavorId/0_1pa6wfqy/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 3980.673828125,
+        "y": 8543.238250732422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6701,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Description of Behaviour",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/Methods_DescriptionFinalThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 340,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_zdf41dfa/v/2/ev/5/flavorId/0_7e9dc6x1/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 4700.495361328125,
+        "y": 8105.836639404297
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6703,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The Scientific Method",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/ScientificMethodFinalThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 481,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_8xg4wkwd/v/2/ev/5/flavorId/0_1yz4vu7v/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 5377.419677734375,
+        "y": 8293.568084716797
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6705,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Correlation",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/Methods_CorrelationFinalThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 324,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_4dqsjjle/v/2/ev/5/flavorId/0_mss2rcsf/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 4924.14013671875,
+        "y": 8456.903533935547
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6707,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Correlation (Animation)",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/05/w2-CorrelationAnimationFinalThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 280,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_hg2qxuov/v/2/ev/5/flavorId/0_drm4elti/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 4811.57861328125,
+        "y": 9081.331756591797
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6709,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 4: Research Methods Part II",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/Week4Banner.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the fourth week of the course! \n\nAssigned Readings\nYou should carefully read the assigned readings for this week of the course (i.e., OpenStax Psychology text: Chapter 2, Section 2.3) before proceeding on with this week of the course. You will have a chance to check your understanding of the readings.It's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 6047.171630859375,
+        "y": 7669.149627685547
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6711,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Experimentation",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/ExperimentationThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 413,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_k20uybhu/v/2/ev/5/flavorId/0_k6jae8g7/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 5725.836669921875,
+        "y": 7172.754608154297
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6713,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Describing Data I",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/DescribingData1thumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 268,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_s1hctij4/v/2/ev/5/flavorId/0_f2bdjq6p/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6318.407470703125,
+        "y": 8375.648162841797
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6715,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Describing Data II",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/DescribingData2Thumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 440,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_osz67gf3/v/2/ev/5/flavorId/0_rl0uum59/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6730.668212890625,
+        "y": 8923.998748779297
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6717,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Making Inferences",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/InferentialThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 268,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "grandchild",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "grandchild",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_s1hctij4/v/2/ev/5/flavorId/0_f2bdjq6p/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 7145.258544921875,
+        "y": 9336.951141357422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6719,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Demonstration: CreatingScatterplots",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/ScatterplotsThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 450,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_qaothl1y/v/2/ev/5/flavorId/0_kelog538/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6255.179931640625,
+        "y": 8944.11898803711
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6721,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Psychology FAQ",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/PsychologyFAQThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 227,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_9ciy95gj/v/2/ev/5/flavorId/0_g9f08ori/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 5883.985107421875,
+        "y": 8352.672821044922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6723,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Deception in Psychological Research",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/DeceptionThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 329,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_yiplcces/v/2/ev/5/flavorId/0_xmh3uk8u/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6029.630126953125,
+        "y": 6647.102447509766
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6725,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 5: Neuroanatomy",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/Week5Thumb-1.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the fifth week of the course! The video in this section details what you can expect from this part of the course.\n\nImportant note about weeks 5 and 6 of this course\n\nWeeks 5 and 6 of this course will require a greater time commitment from you than the other parts of this course. Please plan accordingly.\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., OpenStax Psychology text: Chapter 3, Introduction and Chapter 3, sections 3.2 to 3.5) before proceeding on with this part of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 6832.311279296875,
+        "y": 7762.357635498047
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        336
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 6727,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Biopsychology as a Discipline",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/BiopsychologyThumb-1.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 469,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_jeaao7v7/v/2/ev/5/flavorId/0_1yluxook/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6497.706787109375,
+        "y": 7138.717742919922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6729,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The Neuron",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/NeuronThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 376,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_kb1qc895/v/2/ev/5/flavorId/0_171c8zrr/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6920.469970703125,
+        "y": 7092.735809326172
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6731,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The Nervous System",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/NSThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 151,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_b2bttz38/v/2/ev/5/flavorId/0_5owiqcz6/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 7279.720458984375,
+        "y": 7502.849578857422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6733,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The Central Nervous System",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/CNSThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 392,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "grandchild",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "grandchild",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_9tn7s7z6/v/2/ev/5/flavorId/0_tu2jkfkv/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 7308.790283203125,
+        "y": 6701.864471435547
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6735,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The Endocrine System",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/EndocrineSystemThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 265,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_r4tdmk55/v/2/ev/5/flavorId/0_i2pzi3v6/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6854.853759765625,
+        "y": 8267.873260498047
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6737,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "EEG: Recording Steven's Brain",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/StevenEEGThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 83,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "//admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_i7jizfo9/v/2/ev/5/flavorId/0_2jf4ou1m/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 7330.105712890625,
+        "y": 6117.159942626953
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6739,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Behavioural Neuroscientist: Jason Snyder",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/JasonThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 255,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "grandchild",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "grandchild",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_ldg0l0op/v/2/ev/5/flavorId/0_57n8nahq/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 6550.132568359375,
+        "y": 6642.132781982422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6741,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 6: Neurophysiology",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/Week6thumb.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "child",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the sixth week of the course! The video in this section details what you can expect from this week of the course.\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., section 10.4 of the OpenStax Psychology text) before proceeding on with this part of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 7756.284912109375,
+        "y": 7791.174285888672
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        441
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 6743,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The Resting Membrane Potential",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/RMPThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 182,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "grandchild",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "grandchild",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_j03243sk/v/2/ev/5/flavorId/0_ri1euikv/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 7992.485107421875,
+        "y": 7172.523651123047
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6745,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Postsynaptic Potentials",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/RMPThumb-1.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 318,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_udip0aoh/v/2/ev/5/flavorId/0_rkr1hjjw/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 7956.697021484375,
+        "y": 6643.672332763672
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        449
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 6747,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The Action Potential",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/APThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 446,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_0hn0e5o7/v/2/ev/5/flavorId/0_4ok6mqcb/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 8733.620849609375,
+        "y": 6340.753265380859
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6749,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Neural Transmission",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/NeurotransmissionThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 549,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_uwnd85tk/v/2/ev/5/flavorId/0_29qe1srd/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 9221.745849609375,
+        "y": 6667.797210693359
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6751,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Resting Membrane Potential: Animation",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/RMPAnimation.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 260,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_hv0nuizv/v/2/ev/5/flavorId/0_veb2bdx0/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 8896.216552734375,
+        "y": 7329.588348388672
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6753,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Postsynaptic Potential: Animation",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/PSPsAnimationThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 155,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_jkubr717/v/2/ev/5/flavorId/0_kjceur4r/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 8154.855712890625,
+        "y": 5854.120269775391
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6755,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Action Potential: Animation",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/APANimationThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 115,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_7ajqy8r3/v/2/ev/5/flavorId/0_slwwz0so/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 9344.394775390625,
+        "y": 5614.855987548828
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6757,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Summation of PSPs",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/SummationPSPsThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 271,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_g9o3x54j/v/2/ev/5/flavorId/0_nkqp1pd5/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 8700.895751953125,
+        "y": 5689.127593994141
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6759,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 7: Genetics, Evolutionary Psychology, and Behaviour",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/Week7Thumb.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "grandchild",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "grandchild",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the seventh week of the course! The video in this section details what you can expect from this week of the course.\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., Chapter 3, Section 3.1 of the OpenStax Psychology text) before proceeding. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 9357.899658203125,
+        "y": 7823.977508544922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6761,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Nature vs. Nurture",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/NatureNurtureThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 119,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_tgdu0bo0/v/2/ev/5/flavorId/0_tnawphv0/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 9863.023681640625,
+        "y": 6843.692352294922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6763,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Evolution",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/EvolutionThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 516,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_v0rtl60z/v/2/ev/5/flavorId/0_sf1gthox/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 10563.199462890625,
+        "y": 7071.796356201172
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6765,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Genetics & Epigenetics",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/geneticsEpigeneticsThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 653,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_8m76713d/v/2/ev/5/flavorId/0_czlvpqa9/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 9098.260009765625,
+        "y": 8474.409149169922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6767,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Evolution, Genetics, & Behaviour",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/evoGeneticsBehaviour.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 570,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_veqav1s0/v/2/ev/5/flavorId/0_yqp0dqzn/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 10826.055908203125,
+        "y": 7536.374969482422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6769,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Epigenetics",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/EpigeneticsAnimationThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 111,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_ea64oihr/v/2/ev/5/flavorId/0_poo9y1l5/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 8321.406005859375,
+        "y": 8670.092742919922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6771,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Transgenerational Epigenetics",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/06/TransEpigeneticsAnimationThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 110,
+      "description": "",
+      "behaviour": "embed",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_768imvz5/v/2/ev/5/flavorId/0_iw46l3el/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": ""
+      },
+      "coordinates": {
+        "x": 7782.513427734375,
+        "y": 8982.366668701172
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6773,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 8: Visual System",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/101Week7Thumb-4.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the eighth week of the course!\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., OpenStax Psychology text: Chapter 5 Introduction; Chapter 5, Sections 5.1 to 5.3) before proceeding on with this part of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 11589.942626953125,
+        "y": 7932.691375732422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6775,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The Eye",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/theEyeThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 630,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_mozznrd1/v/2/ev/5/flavorId/0_g7e922yq/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 11421.881591796875,
+        "y": 7048.610321044922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6777,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Receptive Fields",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/recptiveFieldsThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 447,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_p0gv6t5i/v/2/ev/5/flavorId/0_7381wum3/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 10861.567138671875,
+        "y": 8286.739715576172
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6779,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Retina-Geniculate-Striate System",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/retingeniculatestriateThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 310,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_s2xq9b4l/v/2/ev/5/flavorId/0_1zybcn1l/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 12135.092041015625,
+        "y": 6583.685028076172
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6781,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Primary Visual Cortex",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/PrimaryVisualCortexthumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 603,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_gaoth675/v/2/ev/5/flavorId/0_hpy7t6fv/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 12511.914794921875,
+        "y": 6429.007781982422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        2178
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 6783,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Higher Visual Cortices",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/higherCorticesThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 688,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_4kwyrv7p/v/2/ev/5/flavorId/0_aousxwbq/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 12935.887939453125,
+        "y": 6448.601043701172
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6785,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Colour Vision",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/facePerceptionThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 718,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_fmwcwa92/v/2/ev/5/flavorId/0_j9xlmr9r/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 13113.735107421875,
+        "y": 7436.390594482422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6787,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Face Perception",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/facePerceptionThumb-1.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 324,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_oehsrlt5/v/2/ev/5/flavorId/0_bvwp2asy/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 12647.305908203125,
+        "y": 7047.684051513672
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6789,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 9: Other Sensory Systems, Attention, & Perception",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/somatosensoryThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the ninth week of the course!\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., OpenStax Psychology text: Chapter 5, Sections 5.4 to 5.6) before proceeding on with this part of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 11631.745361328125,
+        "y": 9187.832000732422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        2212,
+        5899
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 6791,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Auditory System",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/auditorySystemThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 621,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_uemxs9q2/v/2/ev/5/flavorId/0_kiuc6xgp/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 13019.381103515625,
+        "y": 8354.489227294922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6793,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Somatosensory System",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/somatosensoryThumb-2.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 329.773,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_zbuvlzv2/v/2/ev/5/flavorId/0_xmh3uk8u/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 13167.912353515625,
+        "y": 8927.122528076172
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6795,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Chemical Senses",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/chemicalThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 196,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_r0q9gwqk/v/2/ev/5/flavorId/0_lqkm0uzs/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 12924.009033203125,
+        "y": 9459.220672607422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6797,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Attention",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/attentionThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 318,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_l3odeuiq/v/2/ev/5/flavorId/0_j3g6pyxv/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 12430.247314453125,
+        "y": 9952.961883544922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read",
+          "add"
+        ],
+        "editor": [
+          "read",
+          "add"
+        ],
+        "contributor": [
+          "read",
+          "add"
+        ],
+        "subscriber": [
+          "read",
+          "add"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6799,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Anatomy of a Typical Synapse (Alyssa Juma)",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/137440_Synapse_illustration-SPL_Hero2.jpg",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=259",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 9980.064208984375,
+        "y": 6220.023284912109
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6801,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 7 – The Epigenetics of Childhood Trauma (Sherry Wang)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "lockRows": false,
+        "finishButtonText": "Finish",
+        "confirmationTitleText": "Section Complete!",
+        "confirmationBodyText": "Would you like to continue?",
+        "continueButtonText": "Continue",
+        "cancelLinkText": "Cancel",
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": null,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Some external factors such as diet, drugs and chemicals are capable of turning genes on or off without modifying the basic DNA sequences. Such changes in gene expression are heritable and can be passed on to several generations. This is the so-called epigenetics.\n\nThere is a series of studies showing that epigenetics plays an important role in the persisting effects of early experiences. Serious stressors, especially early in life, can change the phenotypes and have long-lasting effects on both physical and mental health. Much of this work was done by Michael Meaney and his colleagues at McGill University.\n\nMaternal behaviors in rats\n\nTheir first experiment examines the effects that different mothering styles have on baby rats. There are two groups of mother rats, one spends much time licking their pups, which is called “high lickers”, whereas the other one spends little time doing so, which is called “low lickers”. The researchers found that highly licked rat pups are much less fearful and have better control of stress as adults when placed in a stressful environment. The rising level of serotonin in pups leads to a decrease in DNA methylation, which regulates the level of cortisol, a stress hormone, and helps them to get back to normal quickly.\n\nChildhood abuse\n\nSuch long-term impact of childhood experiences not only exists in rats but also humans. In a recent study, Meaney’s team extracted the hippocampal samples of 12 men who committed suicide when they were 35 years old and had the experience of childhood abuse, and 12 men who committed suicide when they were 35 years old but with no experience of childhood abuse. The researchers separated them into two groups and compared each group with a control group of 12 men who died at around the same age but had no experience of abuse and suicide. The results showed that the level of DNA methylation of the group who had a history of abuse and committed suicide had increased compared to others, while there was no significant difference between the other two groups, regardless of whether they died of suicide.\n\nTo sum up, childhood trauma can actually influence our gene expression and result in a higher risk of developing mental and physical health problems later in life. Therefore, adults should endeavor to create a safe and warm family environment, which will protect not only their children but also the following generations.\n\nReference\n\nhttps://www.psychologytoday.com/ca/blog/psyched/201909/the-epigenetics-childhood-trauma-0\n\nhttps://www.mcgill.ca/newsroom/channels/news/childhood-trauma-has-life-long-effect-genes-and-brain-104667\n\nMcGowan, P. O., Sasaki, A., D’Alessio, A. C., Dymov, S., Labonté, B., Szyf, M., Turecki, G., & Meaney, M. J. (2009). Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse. Nature neuroscience, 12(3), 342–348. https://doi.org/10.1038/nn.2270"
+      },
+      "coordinates": {
+        "x": 8502.483642578125,
+        "y": 9250.311492919922
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6803,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Oranges (Week 8) - Review of Colour Vision",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Our group tapestry contributions from the group \"Oranges\". Here, we're going to situate some of the content we learned about in the Week 8 readings and lectures in the context of colour vision."
+      },
+      "coordinates": {
+        "x": 13561.944091796875,
+        "y": 6864.415985107422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6805,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The story of sickle-cell disease (Sherry Wang)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 281,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=306",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 9066.840087890625,
+        "y": 9108.635711669922
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6807,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 10: States of Consciousness",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/Week10Thumb-1.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the tenth week of the course!\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 11391.846923828125,
+        "y": 10982.156219482422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        5905
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 6809,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Sleep Basics",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/SleepBasicsThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 559,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_x5yh14pe/v/2/ev/5/flavorId/0_knvxoa9b/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 12890.395751953125,
+        "y": 10747.243133544922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6811,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Dreaming",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/DreamingThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 476,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_uu5jwv20/v/2/ev/5/flavorId/0_o8nel15v/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 12877.697509765625,
+        "y": 11477.378875732422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6813,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Why Do We Sleep?",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/WhySleepThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 898,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_k575ar8k/v/2/ev/5/flavorId/0_wtzrv6tb/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 11131.717041015625,
+        "y": 10055.199188232422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6815,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "How Much Sleep Do We Need",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/SleepBasicsThumb-1.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 466,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_vu643iig/v/2/ev/5/flavorId/0_50n16pln/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 10522.209228515625,
+        "y": 10252.014617919922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6817,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Drugs",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/DrugsThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 730,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_3gphxnl3/v/2/ev/5/flavorId/0_mn4a3jo6/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 11925.341064453125,
+        "y": 11794.830047607422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6819,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 11: Learning",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/Week11Thumb.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Welcome to the eleventh week of the course!\n\nAssigned Readings\nYou should carefully read the assigned readings for this part of the course (i.e., OpenStax Psychology text: Chapter 6 Introduction, and Chapter 6, Sections 6.1 to 6.4) before proceeding on with this part of the course. You will have a chance to check your understanding of the readings.\n\nIt's important to note that not all of the material that is in the text is in the video lectures, and vice versa. So, it's important to keep up with both."
+      },
+      "coordinates": {
+        "x": 9557.121337890625,
+        "y": 11102.789031982422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6821,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Classical Conditioning",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/ClassicicalCondThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 905,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_nmuu33lj/v/2/ev/5/flavorId/0_glbgp52f/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 9049.348876953125,
+        "y": 10340.893524169922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6823,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Operant Conditioning",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/OperantHumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 414,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_6n1y69oc/v/2/ev/5/flavorId/0_kkupdx0n/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 9830.292236328125,
+        "y": 10340.893524169922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6825,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Reinforcement and Punishment",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/RewardPunishThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 323,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_pp7fqu3k/v/2/ev/5/flavorId/0_hscdhoqp/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 9925.529541015625,
+        "y": 12074.205047607422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6827,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Animation: Classical Conditioning",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/AnimationThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 699,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "http://admin.video.ubc.ca/p/162/sp/16200/serveFlavor/entryId/0_8h8spctl/v/2/ev/5/flavorId/0_hl7awge3/forceproxy/true/name/a.mp4",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 9165.996337890625,
+        "y": 9761.293914794922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6829,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 12: Memory",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/Week12Thumb-1.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ]
+      },
+      "coordinates": {
+        "x": 7923.095458984375,
+        "y": 11082.936492919922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [
+        {
+          "type": "date_passed",
+          "nodeId": 0,
+          "date": "2020-07-30",
+          "time": "00:00:00",
+          "timezone": "America/Vancouver",
+          "fulfilled": false
+        }
+      ],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6831,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Early Studies of Memory",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/EarlyStudiesThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 193,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ]
+      },
+      "coordinates": {
+        "x": 7947.109619140625,
+        "y": 10354.170867919922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [
+        {
+          "type": "date_passed",
+          "nodeId": 0,
+          "date": "2020-07-30",
+          "time": "00:00:00",
+          "timezone": "America/Vancouver",
+          "fulfilled": false
+        }
+      ],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6833,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Week 13: Thinking & Reasoning",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/Week13Thumb.png",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ]
+      },
+      "coordinates": {
+        "x": 5663.069091796875,
+        "y": 11018.646453857422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [
+        {
+          "type": "date_passed",
+          "nodeId": 0,
+          "date": "2020-08-06",
+          "time": "00:00:00",
+          "timezone": "America/Vancouver",
+          "fulfilled": false
+        }
+      ],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6835,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Mnemonists & Amnesics",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/MnemonistsThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 549,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ]
+      },
+      "coordinates": {
+        "x": 8884.455810546875,
+        "y": 12113.651336669922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [
+        {
+          "type": "date_passed",
+          "nodeId": 0,
+          "date": "2020-07-30",
+          "time": "00:00:00",
+          "timezone": "America/Vancouver",
+          "fulfilled": false
+        }
+      ],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6837,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Stages of Memory",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/StagesMemoryThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 457,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ]
+      },
+      "coordinates": {
+        "x": 8323.259033203125,
+        "y": 12378.145477294922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [
+        {
+          "type": "date_passed",
+          "nodeId": 0,
+          "date": "2020-07-30",
+          "time": "00:00:00",
+          "timezone": "America/Vancouver",
+          "fulfilled": false
+        }
+      ],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6839,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Systems of Memory",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/SystemsMemoryThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 346,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ]
+      },
+      "coordinates": {
+        "x": 7694.692626953125,
+        "y": 12378.156219482422
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [
+        {
+          "type": "date_passed",
+          "nodeId": 0,
+          "date": "2020-07-30",
+          "time": "00:00:00",
+          "timezone": "America/Vancouver",
+          "fulfilled": false
+        }
+      ],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6841,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Aspects of Memory",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/AspectsMemoryThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 404,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ]
+      },
+      "coordinates": {
+        "x": 6964.540283203125,
+        "y": 12136.885711669922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [
+        {
+          "type": "date_passed",
+          "nodeId": 0,
+          "date": "2020-07-30",
+          "time": "00:00:00",
+          "timezone": "America/Vancouver",
+          "fulfilled": false
+        }
+      ],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6843,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Cognitive Psychology",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/CogPsycThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 171,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ]
+      },
+      "coordinates": {
+        "x": 5987.040771484375,
+        "y": 10250.413055419922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [
+        {
+          "type": "date_passed",
+          "nodeId": 0,
+          "date": "2020-08-06",
+          "time": "00:00:00",
+          "timezone": "America/Vancouver",
+          "fulfilled": false
+        }
+      ],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6845,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Concepts and Structures in Mind",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/ConceptsMindThumb.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 214,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ]
+      },
+      "coordinates": {
+        "x": 5199.760009765625,
+        "y": 10244.063446044922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [
+        {
+          "type": "date_passed",
+          "nodeId": 0,
+          "date": "2020-08-06",
+          "time": "00:00:00",
+          "timezone": "America/Vancouver",
+          "fulfilled": false
+        }
+      ],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6847,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Challenges and Biases in Problem Solving",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/ChallengesBiasesProblemSoving.png",
+      "lockedImageURL": "",
+      "mediaType": "video",
+      "mediaFormat": "mp4",
+      "mediaDuration": 190,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ]
+      },
+      "coordinates": {
+        "x": 5104.524658203125,
+        "y": 11945.606414794922
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [
+        {
+          "type": "date_passed",
+          "nodeId": 0,
+          "date": "2020-08-06",
+          "time": "00:00:00",
+          "timezone": "America/Vancouver",
+          "fulfilled": false
+        }
+      ],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 6850,
+      "author": {
+        "id": "372",
+        "name": "narendra"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "test node",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "qwe",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "qwe"
+      },
+      "coordinates": {
+        "x": 3424.10986328125,
+        "y": 8014.513153076172
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    }
+  ]
+}

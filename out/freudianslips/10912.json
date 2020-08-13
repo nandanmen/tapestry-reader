@@ -1,0 +1,1466 @@
+{
+  "tapestry": {
+    "nodes": [
+      19987,
+      19990,
+      19992,
+      19994,
+      19996,
+      19998,
+      20000,
+      20002,
+      20004,
+      20006,
+      20008,
+      20010,
+      20012,
+      20014,
+      20016,
+      20018,
+      20020,
+      20022,
+      20024,
+      20026,
+      20028,
+      20030,
+      20032,
+      20034,
+      20036,
+      20038,
+      20040,
+      20042,
+      20044,
+      20046,
+      20048,
+      20050,
+      20052,
+      20054,
+      20056,
+      20058,
+      20060,
+      20062,
+      20064,
+      20066,
+      20068,
+      20070,
+      20072,
+      20074,
+      20076,
+      20078,
+      20080,
+      20082,
+      20084,
+      20086,
+      20088,
+      20090,
+      20092,
+      20094,
+      20096,
+      20098,
+      20100,
+      20102,
+      20104,
+      20106,
+      20108,
+      20110,
+      20112,
+      20114,
+      20116,
+      20118,
+      20120,
+      20122,
+      20124,
+      20126,
+      20128,
+      20130,
+      20132,
+      20134,
+      20136,
+      20138,
+      20140,
+      20142,
+      20144,
+      20146,
+      20148,
+      20150,
+      20152,
+      20154,
+      20156,
+      20158,
+      20160,
+      20162,
+      20164,
+      20166,
+      20168,
+      20170,
+      20172,
+      20174,
+      20176,
+      20178,
+      20180,
+      20182,
+      20184,
+      20186,
+      20188,
+      20190,
+      20192,
+      20194,
+      20196,
+      20198,
+      20200,
+      20202,
+      20204,
+      20206,
+      20208,
+      20210,
+      20212,
+      20214,
+      20216,
+      20218,
+      20220,
+      20222,
+      20224,
+      20226,
+      20228,
+      20230,
+      20232,
+      20234,
+      20236,
+      20238,
+      20240,
+      20242,
+      20244,
+      20246,
+      20248,
+      20250,
+      20252,
+      20254,
+      20256,
+      20258,
+      20260,
+      20262,
+      20264,
+      20266,
+      20268,
+      20270,
+      20272,
+      20274,
+      20276,
+      20278,
+      20280,
+      20282,
+      20284,
+      20286,
+      20288,
+      20290,
+      20292,
+      20294,
+      20296,
+      20298,
+      20300,
+      20302,
+      20304,
+      20306
+    ],
+    "groups": [],
+    "links": [
+      {
+        "source": 19987,
+        "target": 19990,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19987,
+        "target": 19992,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19987,
+        "target": 19994,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19990,
+        "target": 19996,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19990,
+        "target": 19998,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20000,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20002,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20004,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20006,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20008,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20010,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20012,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20014,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20016,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20018,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20020,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20022,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20024,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20026,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20028,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20030,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20032,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20034,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20036,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20038,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20040,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20042,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20044,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20046,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20048,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20050,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20052,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20054,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20056,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20058,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20060,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20062,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19992,
+        "target": 20064,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20066,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20068,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20070,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20072,
+        "target": 19992,
+        "value": 1,
+        "type": "",
+        "appearsAt": ""
+      },
+      {
+        "source": 19992,
+        "target": 20074,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20076,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20078,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20080,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20082,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20084,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20086,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20088,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20090,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20092,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20094,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20096,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20098,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20100,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20102,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20104,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20106,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20108,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20110,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20112,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20114,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20116,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20118,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20120,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20122,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20124,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19994,
+        "target": 20126,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19994,
+        "target": 20128,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19994,
+        "target": 20130,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20132,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20134,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20136,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20246,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20140,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20142,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20144,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20146,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20148,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20150,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20152,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20154,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20156,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20158,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20160,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20162,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20164,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20166,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20168,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20170,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20172,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20000,
+        "target": 20174,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20004,
+        "target": 20176,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20006,
+        "target": 20178,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20016,
+        "target": 20180,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20032,
+        "target": 20182,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20038,
+        "target": 20184,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20048,
+        "target": 20186,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20050,
+        "target": 20188,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20058,
+        "target": 20190,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20058,
+        "target": 20192,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20194,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 20062,
+        "target": 20196,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20198,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20200,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20202,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20204,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20206,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20208,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20210,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20212,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20278,
+        "target": 20062,
+        "value": 1,
+        "type": "",
+        "appearsAt": ""
+      },
+      {
+        "source": 20062,
+        "target": 20216,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20218,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20220,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20222,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20224,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20226,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20228,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20230,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20064,
+        "target": 20232,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20064,
+        "target": 20234,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20064,
+        "target": 20236,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20064,
+        "target": 20238,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20064,
+        "target": 20240,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20066,
+        "target": 20242,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20068,
+        "target": 20244,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20246,
+        "target": 20072,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20072,
+        "target": 20248,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20084,
+        "target": 20250,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20100,
+        "target": 20252,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20106,
+        "target": 20254,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20116,
+        "target": 20256,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20118,
+        "target": 20258,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20124,
+        "target": 20260,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 20130,
+        "target": 20262,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20246,
+        "target": 20290,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20142,
+        "target": 20266,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20148,
+        "target": 20268,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20164,
+        "target": 20270,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20190,
+        "target": 20272,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20194,
+        "target": 20274,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20194,
+        "target": 20276,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20194,
+        "target": 20278,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20194,
+        "target": 20280,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20194,
+        "target": 20282,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20212,
+        "target": 20284,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20228,
+        "target": 20286,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20240,
+        "target": 20288,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20246,
+        "target": 20290,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20262,
+        "target": 20292,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20274,
+        "target": 20294,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20274,
+        "target": 20296,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20282,
+        "target": 20298,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20292,
+        "target": 20300,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20292,
+        "target": 20302,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20300,
+        "target": 20304,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20304,
+        "target": 20306,
+        "value": 1,
+        "type": ""
+      }
+    ],
+    "settings": {
+      "tapestrySlug": "for-grading-only-week-7",
+      "title": "FOR GRADING ONLY--WEEK 7",
+      "status": "private",
+      "backgroundUrl": "",
+      "autoLayout": false,
+      "nodeDraggable": true,
+      "showAccess": true,
+      "defaultPermissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "superuserOverridePermissions": false,
+      "defaultDepth": 0
+    },
+    "rootId": 19987,
+    "id": 10912
+  },
+  "nodes": [
+    {
+      "id": 20050,
+      "author": {
+        "id": "155",
+        "name": "freudianslips"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Darwin's Theory of Evolution (Crystal Chu)",
+      "status": "publish",
+      "imageURL": "https://ubc.tapestry-tool.com/psyc101/darwins-theory-of-evolution-crystal-chu/",
+      "lockedImageURL": "",
+      "mediaType": "wp-post",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "The first part of freudianslips Tapestry project.",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": 1857,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 11084.072509765625,
+        "y": 11147.086883544922
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 20052,
+      "author": {
+        "id": "155",
+        "name": "freudianslips"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Natural Selection and Antibiotic Resistance (Lina Lem)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "wp-post",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "The modern-day example of antibiotic resistance to further explain the concept of natural selection and its current impact.",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": 2810,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 11039.678955078125,
+        "y": 10296.863250732422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 20054,
+      "author": {
+        "id": "155",
+        "name": "freudianslips"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Misconceptions about Human Evolution (Jasmine Blando)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "wp-post",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "Discusses the 7 common misunderstood points about human evolution.",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": 2808,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 10220.857666015625,
+        "y": 10798.118133544922
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 20056,
+      "author": {
+        "id": "155",
+        "name": "freudianslips"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Misconceptions of Human Evolution Quiz (Jasmine Blando)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=382",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 10506.066650390625,
+        "y": 11331.968719482422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 20188,
+      "author": {
+        "id": "155",
+        "name": "freudianslips"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Darwin's Theory of Evolution True or False Quiz (Crystal Chu)",
+      "status": "publish",
+      "imageURL": "https://ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/charlesdarwin-2.png",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Read through the \"Darwin's Theory of Evolution\" and test yourself!",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=233",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 11554.072509765625,
+        "y": 11147.086883544922
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    }
+  ]
+}

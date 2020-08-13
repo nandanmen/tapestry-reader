@@ -1,0 +1,1518 @@
+{
+  "tapestry": {
+    "nodes": [
+      19987,
+      19990,
+      19992,
+      19994,
+      19996,
+      19998,
+      20000,
+      20002,
+      20004,
+      20006,
+      20008,
+      20010,
+      20012,
+      20014,
+      20016,
+      20018,
+      20020,
+      20022,
+      20024,
+      20026,
+      20028,
+      20030,
+      20032,
+      20034,
+      20036,
+      20038,
+      20040,
+      20042,
+      20044,
+      20046,
+      20048,
+      20050,
+      20052,
+      20054,
+      20056,
+      20058,
+      20060,
+      20062,
+      20064,
+      20066,
+      20068,
+      20070,
+      20072,
+      20074,
+      20076,
+      20078,
+      20080,
+      20082,
+      20084,
+      20086,
+      20088,
+      20090,
+      20092,
+      20094,
+      20096,
+      20098,
+      20100,
+      20102,
+      20104,
+      20106,
+      20108,
+      20110,
+      20112,
+      20114,
+      20116,
+      20118,
+      20120,
+      20122,
+      20124,
+      20126,
+      20128,
+      20130,
+      20132,
+      20134,
+      20136,
+      20138,
+      20140,
+      20142,
+      20144,
+      20146,
+      20148,
+      20150,
+      20152,
+      20154,
+      20156,
+      20158,
+      20160,
+      20162,
+      20164,
+      20166,
+      20168,
+      20170,
+      20172,
+      20174,
+      20176,
+      20178,
+      20180,
+      20182,
+      20184,
+      20186,
+      20188,
+      20190,
+      20192,
+      20194,
+      20196,
+      20198,
+      20200,
+      20202,
+      20204,
+      20206,
+      20208,
+      20210,
+      20212,
+      20214,
+      20216,
+      20218,
+      20220,
+      20222,
+      20224,
+      20226,
+      20228,
+      20230,
+      20232,
+      20234,
+      20236,
+      20238,
+      20240,
+      20242,
+      20244,
+      20246,
+      20248,
+      20250,
+      20252,
+      20254,
+      20256,
+      20258,
+      20260,
+      20262,
+      20264,
+      20266,
+      20268,
+      20270,
+      20272,
+      20274,
+      20276,
+      20278,
+      20280,
+      20282,
+      20284,
+      20286,
+      20288,
+      20290,
+      20292,
+      20294,
+      20296,
+      20298,
+      20300,
+      20302,
+      20304,
+      20306
+    ],
+    "groups": [],
+    "links": [
+      {
+        "source": 19987,
+        "target": 19990,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19987,
+        "target": 19992,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19987,
+        "target": 19994,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19990,
+        "target": 19996,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19990,
+        "target": 19998,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20000,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20002,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20004,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20006,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20008,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20010,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20012,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20014,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20016,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20018,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20020,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20022,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20024,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20026,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20028,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20030,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20032,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20034,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20036,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20038,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20040,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20042,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20044,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20046,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20048,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20050,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20052,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20054,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20056,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20058,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19990,
+        "target": 20060,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20062,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19992,
+        "target": 20064,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20066,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20068,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20070,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20072,
+        "target": 19992,
+        "value": 1,
+        "type": "",
+        "appearsAt": ""
+      },
+      {
+        "source": 19992,
+        "target": 20074,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20076,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20078,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20080,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20082,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20084,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20086,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20088,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20090,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20092,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20094,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20096,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20098,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20100,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20102,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20104,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20106,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20108,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20110,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20112,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20114,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20116,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20118,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20120,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19992,
+        "target": 20122,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20124,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19994,
+        "target": 20126,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19994,
+        "target": 20128,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 19994,
+        "target": 20130,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20132,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20134,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20136,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20246,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20140,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20142,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20144,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20146,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20148,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20150,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20152,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20154,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20156,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20158,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20160,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20162,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20164,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20166,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20168,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20170,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 19994,
+        "target": 20172,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20000,
+        "target": 20174,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20004,
+        "target": 20176,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20006,
+        "target": 20178,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20016,
+        "target": 20180,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20032,
+        "target": 20182,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20038,
+        "target": 20184,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20048,
+        "target": 20186,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20050,
+        "target": 20188,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20058,
+        "target": 20190,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20058,
+        "target": 20192,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20194,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 20062,
+        "target": 20196,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20198,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20200,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20202,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20204,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20206,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20208,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20210,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20212,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20278,
+        "target": 20062,
+        "value": 1,
+        "type": "",
+        "appearsAt": ""
+      },
+      {
+        "source": 20062,
+        "target": 20216,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20218,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20220,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20222,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20224,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20226,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20228,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20062,
+        "target": 20230,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20064,
+        "target": 20232,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20064,
+        "target": 20234,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20064,
+        "target": 20236,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20064,
+        "target": 20238,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20064,
+        "target": 20240,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20066,
+        "target": 20242,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20068,
+        "target": 20244,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20246,
+        "target": 20072,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20072,
+        "target": 20248,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20084,
+        "target": 20250,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20100,
+        "target": 20252,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20106,
+        "target": 20254,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20116,
+        "target": 20256,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20118,
+        "target": 20258,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20124,
+        "target": 20260,
+        "value": 1,
+        "type": "",
+        "appearsAt": 0
+      },
+      {
+        "source": 20130,
+        "target": 20262,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20246,
+        "target": 20290,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20142,
+        "target": 20266,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20148,
+        "target": 20268,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20164,
+        "target": 20270,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20190,
+        "target": 20272,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20194,
+        "target": 20274,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20194,
+        "target": 20276,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20194,
+        "target": 20278,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20194,
+        "target": 20280,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20194,
+        "target": 20282,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20212,
+        "target": 20284,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20228,
+        "target": 20286,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20240,
+        "target": 20288,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20246,
+        "target": 20290,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20262,
+        "target": 20292,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20274,
+        "target": 20294,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20274,
+        "target": 20296,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20282,
+        "target": 20298,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20292,
+        "target": 20300,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20292,
+        "target": 20302,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20300,
+        "target": 20304,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 20304,
+        "target": 20306,
+        "value": 1,
+        "type": ""
+      }
+    ],
+    "settings": {
+      "tapestrySlug": "for-grading-only-week-7",
+      "title": "FOR GRADING ONLY--WEEK 7",
+      "status": "private",
+      "backgroundUrl": "",
+      "autoLayout": false,
+      "nodeDraggable": true,
+      "showAccess": true,
+      "defaultPermissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "superuserOverridePermissions": false,
+      "defaultDepth": 0
+    },
+    "rootId": 19987,
+    "id": 10912
+  },
+  "nodes": [
+    {
+      "id": 20100,
+      "author": {
+        "id": "236",
+        "name": "aoa2020"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Genetic Variation (Arshdeep Sidhu)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "wp-post",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "Summary of genetic variation and its relation to natural selection and evolution. ",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": 2627,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 8468.297119140625,
+        "y": 10829.507781982422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 20118,
+      "author": {
+        "id": "236",
+        "name": "aoa2020"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Epigenetics: A brief review (Anika Morokhovich) ",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=391",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 8930.352783203125,
+        "y": 12376.285125732422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 20164,
+      "author": {
+        "id": "236",
+        "name": "aoa2020"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "What is Evolution? (Atharva)",
+      "status": "publish",
+      "imageURL": "https://i.ytimg.com/vi/P3GagfbA2vo/sddefault.jpg",
+      "lockedImageURL": "https://i.ytimg.com/vi/P3GagfbA2vo/sddefault.jpg",
+      "mediaType": "url-embed",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": {
+          "title": "Evolution: It's a Thing - Crash Course Biology #20",
+          "description": "Hank gets real with us in a discussion of evolution - it's a thing, not a debate. Gene distribution changes over time, across successive generations, to give rise to diversity at every level of biological organization. Crash Course Biology is now available on DVD! http://dft.ba/-8css Like CrashCourse on Facebook: http://www.facebook.com/YouTubeCrashCourse Follow CrashCourse on Twitter: http://www.twitter.com/TheCrashCourse Table of Contents 1) The Theory of Evolution 1:49 2) Fossils 2:42 3) Homologous Structures 4:36 4) Biogeography 7:02 5) Direct Observation 8:52 References for this episode can be found in the Google document here: http://dft.ba/-2Oyu evolution, theory, biology, science, crashcourse, genetics, gene, facts, fossil, fossil record, dinosaur, extinct, extinction, organism, dorudon, rodhocetus, vestigial, structure, similarity, homologous structure, related, relationship, morganucodon, fore limb, hind limb, vertebrate, molecule, DNA, RNA, chimpanzee, fruit fly, biogeography, marsupial, finches, direct observation, drug resistance, resistance, selective pressure, italian wall lizard Support CrashCourse on Patreon: https://www.patreon.com/crashcourse",
+          "image": "https://i.ytimg.com/vi/P3GagfbA2vo/sddefault.jpg",
+          "url": "https://www.youtube.com/watch?v=P3GagfbA2vo"
+        },
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://www.youtube.com/watch?v=P3GagfbA2vo",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 10392.143798828125,
+        "y": 12540.300750732422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        4561
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 20252,
+      "author": {
+        "id": "236",
+        "name": "aoa2020"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Genetic Variation Review (Arshdeep Sidhu)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Activity to review terms relating to genetic variation and evolution. ",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=370",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 7974.729248046875,
+        "y": 10871.208953857422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 20258,
+      "author": {
+        "id": "236",
+        "name": "aoa2020"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Effects of Epigenetics (Anika Morokhovich)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Epigenetics is modifications to the genome that do not modify the underlying DNA sequence. It functions by modifying the genes so that they are turned on or off. The genes being modified causes a change in the phenotype of the organism. It was originally thought that epigenetics could not be passed down through generations but that thought is beginning to change. \n\nEpigenetics has been found to play a role in different diseases: \n- Cancer has been linked to hypermethylation of genes and histone modifications causing a variety of cancers depending on where the epigenetics is. For example, hypermethylation of the APC gene has been found to lead to esophageal cancer. \n- Autoimmune diseases have also been linked to different epigenetics mechanisms. Asthma and the epigenetic modification associated with it has been found to be heritable. The epigenetics modification was found to transfer more from the parental mother than that of the parental father. \n- Brain development is also very susceptible to epigenetics. The first couple years of a child’s life is critical for proper brain development. This can lead to different psychological disorders later on in life from the associated epigenetics modification. Schizophrenia, bipolar disorder and others have been found to be a results of hypomethylation and hypermethylation of various genes. \n\nNot all of the above epigenetics mechanism have been found to be heritable as of yet but if they do this will further emphasize the need to maintain a healthy lifestyle. Smoking has been heavily linked to cause cancer. The use of tabacco and the methylation that occurred in the lung cells lead to cancer. Knowing that it could potentially be inherited to your offspring as well as any other epigenetics modifications caused by your life should make us more aware of our actions to protect the future generations. \n\nReferences: \nAlegría-Torres, J., Baccarelli, A., &amp; Bollati, V. (2011, June). Epigenetics and lifestyle. Retrieved \n            July 16, 2020, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3752894/\n\nMoosavi, A., &amp; Motevalizadeh Ardekani, A. (2016, November). Role of Epigenetics in Biology and \n            Human Diseases. Retrieved July 16, 2020, from \n            https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5075137/"
+      },
+      "coordinates": {
+        "x": 9306.926025390625,
+        "y": 12886.013641357422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 20270,
+      "author": {
+        "id": "236",
+        "name": "aoa2020"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "How does evolution work?",
+      "status": "publish",
+      "imageURL": "https://i.ytimg.com/vi/hOfRN0KihOU/sddefault.jpg",
+      "lockedImageURL": "https://i.ytimg.com/vi/hOfRN0KihOU/sddefault.jpg",
+      "mediaType": "url-embed",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": {
+          "title": "How Evolution works",
+          "description": "The mechanisms of evolution explained in one video. The theory of evolution explains how the enormous variety of life could come into existence. How it is possible for primitive life forms to spawn the millions of different creatures, that exist today. Unfortunately, evolution is often misunderstood, because it's mechanisms seem counter intuitive. By using visualizations, infographics and appealing characters, the viewer is more likely to understand it the complex information. More than that, by presenting the information in an entertaining way, the information is more likely to sink in. Short videos, explaining things. For example Evolution, the Universe, Stock Market or controversial topics like Fracking. Because we love science. We would love to interact more with you, our viewers to figure out what topics you want to see. If you have a suggestion for future videos or feedback, drop us a line! :) Support us on Patreon so we can...",
+          "image": "https://i.ytimg.com/vi/hOfRN0KihOU/sddefault.jpg",
+          "url": "https://www.youtube.com/watch?v=hOfRN0KihOU"
+        },
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": "https://www.youtube.com/watch?v=hOfRN0KihOU",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 10888.422119140625,
+        "y": 12853.234344482422
+      },
+      "permissions": {
+        "public": [],
+        "authenticated": [],
+        "editor": [],
+        "contributor": [],
+        "subscriber": []
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    }
+  ]
+}

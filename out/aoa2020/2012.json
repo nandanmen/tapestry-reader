@@ -1,0 +1,270 @@
+{
+  "tapestry": {
+    "nodes": [
+      3177,
+      3184,
+      3371
+    ],
+    "groups": [],
+    "links": [
+      {
+        "source": 3177,
+        "target": 3184,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 3177,
+        "target": 3371,
+        "value": 1,
+        "type": ""
+      }
+    ],
+    "settings": {
+      "tapestrySlug": "week-7-2",
+      "title": "Week 7",
+      "status": "private",
+      "backgroundUrl": "",
+      "autoLayout": false,
+      "nodeDraggable": true,
+      "showAccess": true,
+      "defaultPermissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "superuserOverridePermissions": true,
+      "defaultDepth": 3
+    },
+    "rootId": 3177,
+    "id": 2012
+  },
+  "nodes": [
+    {
+      "id": 3177,
+      "author": {
+        "id": "236",
+        "name": "aoa2020"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Genetics vs Environment",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Who we are and how we got to be this incredible person has been a long debated question. How much of it is genetics and how much of it is due to the environment"
+      },
+      "coordinates": {
+        "x": 2796.32763671875,
+        "y": 2861.348876953125
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        3184
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 3184,
+      "author": {
+        "id": "236",
+        "name": "aoa2020"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Epigenetics (Anika Morokhovich)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 303,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0
+          },
+          {
+            "group": "unviewed",
+            "value": 1
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=266",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 3378.06103515625,
+        "y": 3068.9541015625
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 3371,
+      "author": {
+        "id": "236",
+        "name": "aoa2020"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Genetic Variation (Arshdeep Sidhu)",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "wp-post",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": 2180,
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 2237.146240234375,
+        "y": 3116.455810546875
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    }
+  ]
+}

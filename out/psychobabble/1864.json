@@ -1,0 +1,605 @@
+{
+  "tapestry": {
+    "nodes": [
+      3921,
+      3976,
+      4244,
+      4915,
+      4978,
+      4980,
+      5262
+    ],
+    "groups": [],
+    "links": [
+      {
+        "source": 3921,
+        "target": 3976,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 3921,
+        "target": 4244,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 4244,
+        "target": 4915,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 3921,
+        "target": 4978,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 4978,
+        "target": 4980,
+        "value": 1,
+        "type": ""
+      },
+      {
+        "source": 3976,
+        "target": 5262,
+        "value": 1,
+        "type": ""
+      }
+    ],
+    "settings": {
+      "tapestrySlug": "week-8-tapestry",
+      "title": "week 8 tapestry",
+      "status": "private",
+      "backgroundUrl": "",
+      "autoLayout": false,
+      "nodeDraggable": true,
+      "showAccess": true,
+      "defaultPermissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "superuserOverridePermissions": true,
+      "defaultDepth": 3
+    },
+    "rootId": 3921,
+    "id": 1864
+  },
+  "nodes": [
+    {
+      "id": 3921,
+      "author": {
+        "id": "102",
+        "name": "psychobabble"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "WEEK 8: Visual system and perception",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "This node describes some key aspects of Week 8: Visual system. ",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "This node describes some key aspects of Week 8, including important background on: (1) the anatomy of the human eye (Elbert Ng); (2) light waves and human perception of colour (Kathleen Deering); and (3) human sensation and perception (Juliana Antepyan)."
+      },
+      "coordinates": {
+        "x": 2721.65869140625,
+        "y": 3002.727294921875
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        3976
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 3976,
+      "author": {
+        "id": "102",
+        "name": "psychobabble"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Waves (Kathleen Deering)",
+      "status": "publish",
+      "imageURL": "https://ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/wave-photo.jpg",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "This node describes waves with implications for perception within the visual and auditory systems",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Key messages about waves:\n\n1. The visual and auditory stimuli that we perceive occur in the form of waves;\n2. Visual and auditory waves share similar physical properties; these properties influence how we perceive waves.\n\nKey physical properties of waves that aid our understanding of waves and perception:\n\n1. peak/crest of a wave: highest point on a wave (measured on a graph)\n2. trough of a wave: lowest point of a wave (measured on a graph)\n3. amplitude: the height of the wave, measured from peak to trough\n4. wavelength: length of the wave from peak to peak\n5. frequency: number of waves that pass a given point in a given time period (unit=hertz, Hz). Frequency and wavelength are inversely related - higher frequencies have shorter wavelengths and lower frequencies have longer wavelengths\n\nLight waves and perception: \n\n1. Perception of light waves can be understood through the electromagnetic spectrum, which includes all of the electromagnetic radiation that occurs in our environment and is measured as wavelengths, in nanometres (nm);\n2.  Parts of the electromagnetic spectrum include radiowaves (the longest wavelength with the lowest frequency) and gamma rays (the shortest wavelengths with the highest frequency);\n3. One part of the electromagnetic spectrum for humans is what we call the \"visible spectrum\" - this is what humans can perceive through sight. This is one small part of this spectrum (380-740nm);\n4. Other animals have different \"visible spectrums\" - for example, honeybees see light in the ultraviolet radiation range and some snakes detect infrared radiation range;\n5. For humans, different wavelengths within the visible spectrum are associated with the perception of different colours; \n6. For humans, wavelength follows a rainbow pattern, with the largest half-circle of the rainbow (red, ~740nm) having longer wavelengths (and shorter frequencies) and the smallest half-circle in the rainbow (violet, ~380nm) having shorter wavelengths (and higher frequencies).\n\nSound waves and perception: \n\n1. Perception of sound waves can be understood through two physical properties of waves: frequency and loudness; \n2.  Frequency is associated with our perception of “pitch” – higher frequency sound waves are associated with high-pitched sounds, and lower frequency sound waves are associated with low-pitched sounds;\n3. For humans, the “audible range” of frequencies are those that humans perceive through hearing (20-20,000 Hz). This is one small part of the overall range of sounds that occur in our environments;\n4. Other animals have different \"audible ranges\" - for example, dogs and cats can hear sounds between 70-45,000 Hz nd 45-64,000 Hz; \n5. The amplitudes of sound waves are also another way to measure how sounds are perceived. Higher amplitudes of waves are associated with louder sounds, while shorter amplitudes are associated with quieter sounds. Loudness is measured in decibals (dB);\n6. For humans, the quietest noises we can generally hear are around 30dB (e.g., rustling of leaves), and there is the potential for hearing damage from about 80-130dB (e.g., subway train at 20ft away, jackhammer);\n7. Frequency and amplitude of sounds can interact to affect how we perceive sounds: for example, no matter how high the amplitude of a 10 Hz sound wave is, we cannot perceive it. \n\n"
+      },
+      "coordinates": {
+        "x": 2725.2548828125,
+        "y": 3514.8984375
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [
+        5085,
+        5087
+      ],
+      "fitWindow": true
+    },
+    {
+      "id": 4244,
+      "author": {
+        "id": "102",
+        "name": "psychobabble"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Juliana Antepyan - The Importance of Attention in Sensation & Perception",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "text",
+      "mediaFormat": "",
+      "mediaDuration": 0,
+      "description": "Additional information to the importance of attention in sensation and perception. Includes a definition of key terms, further studies, and consequential implications",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "Key Definitions:\n• Sensation involves the use of sensory receptors and includes the five senses: Vision, hearing (audition), smell (olfaction), taste (gustation), and touch (somatosensation).\n• Perception is the way that sensory information is processed, decoded, and consciously experienced, and involves bottom-up processing and top-down processing.\n• Inattentional blindness is the failure to notice something due to lack of attention. This perceptual phenomena, along with 'Change blindness', has changed the way that scientists view visual perception.\n\nExamples of Studies:\n• The importance of attention is shown in a study by Daniel Simons and Christopher Chabris (1999):\n\t○ Participants watched a video of people dressed in black and white uniforms passing basketballs.\n\t○ Participants were instructed to count the number of times the team in white passed the ball.\n\t○ Most participants did not notice the person in a gorilla costume that passed through the court.\n• In an experiment that coined the term inattentional blindness in 1998 by psychologists Arien Mack and Irvin Rock, participants were presented a small cross briefly on a computer screen for several trials and were asked to judge which arm of the cross was longer.\n\t○ After several trials, an unexpected object (a brightly colored rectangle) appeared on the screen along with the cross.\n\t○ Participants often failed to notice the object, even in the centre of their visual field.\n\t○ In regards to the experiment, Mack stated that she \"came away from our studies convinced that there's no conscious perception without attention.\"\n\nFurther Implications:\n• It has been questioned whether inattentional blindess reflects a failure of perception or instead represents limitations in memory.\n\t○ It is possible that unattended objects are consciously perceived, but immediately forgotten.\n\t○ An example of this is a recent study done by psychologist Cathleen Moore, who showed that though they are not consciously recalled, a certain pattern of dots is able to influence how participants perceive objects to which they are paying attention.\nOthers argue that it is unlikely that people would notice but quickly forget something as startling as a gorilla playing basketball, and that there are other unconscious factors at work.\n\nBibliography:\nCarpenter, Siri. Sights Unseen. American Psychologist Association. April 2001. Vol 32. No 4.\nOpenstax. Psychology. Openstax College. February 2014. Vol 9.30"
+      },
+      "coordinates": {
+        "x": 3489.323486328125,
+        "y": 3358.894287109375
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 4915,
+      "author": {
+        "id": "102",
+        "name": "psychobabble"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Juliana Antepyan - Sensation vs. Perception Interactive Video",
+      "status": "publish",
+      "imageURL": "",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 217,
+      "description": "An interactive video to help review the difference between sensation and perception.",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=380",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 3075.540771484375,
+        "y": 3807.6875
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 4978,
+      "author": {
+        "id": "102",
+        "name": "psychobabble"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "The biology of the Human eye (Elbert Ng)",
+      "status": "publish",
+      "imageURL": "//www.thehealthsite.com/wp-content/uploads/2019/11/eye.jpg",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Parts of the human eye and how they work",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=450",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "dasd\n"
+      },
+      "coordinates": {
+        "x": 1951.912109375,
+        "y": 3379.580322265625
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 4980,
+      "author": {
+        "id": "102",
+        "name": "psychobabble"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Drag texts with the human eye (Elbert Ng)",
+      "status": "publish",
+      "imageURL": "https://thumbs.dreamstime.com/b/eye-cursor-illustration-design-over-white-background-37987370.jpg",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "Drag and drop texts to the blanks to complete the quiz.",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=435",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:"
+      },
+      "coordinates": {
+        "x": 2338.3931884765625,
+        "y": 3788.606689453125
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    },
+    {
+      "id": 5262,
+      "author": {
+        "id": "102",
+        "name": "psychobabble"
+      },
+      "type": "tapestry_node",
+      "size": "",
+      "title": "Colour vision (Kathleen Deering)",
+      "status": "publish",
+      "imageURL": "//ubc.tapestry-tool.com/psyc101/wp-content/uploads/sites/4/2020/07/Ishihara-test-3.jpg",
+      "lockedImageURL": "",
+      "mediaType": "h5p",
+      "mediaFormat": "h5p",
+      "mediaDuration": 0,
+      "description": "This sub-node describes colour vision and implications for colour perception.",
+      "behaviour": "new-window",
+      "typeData": {
+        "linkMetadata": null,
+        "progress": [
+          {
+            "group": "viewed",
+            "value": 1,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          },
+          {
+            "group": "unviewed",
+            "value": 0,
+            "extra": {
+              "nodeType": "root",
+              "unlocked": true
+            }
+          }
+        ],
+        "mediaURL": "https://ubc.tapestry-tool.com/psyc101/wp-admin/admin-ajax.php?action=h5p_embed&id=498",
+        "mediaWidth": 960,
+        "mediaHeight": 600,
+        "subAccordionText": "More content:",
+        "textContent": "jgh"
+      },
+      "coordinates": {
+        "x": 2718.994873046875,
+        "y": 4021.85791015625
+      },
+      "permissions": {
+        "public": [
+          "read"
+        ],
+        "authenticated": [
+          "read"
+        ],
+        "editor": [
+          "read"
+        ],
+        "contributor": [
+          "read"
+        ],
+        "subscriber": [
+          "read"
+        ]
+      },
+      "hideTitle": false,
+      "hideProgress": false,
+      "hideMedia": false,
+      "skippable": true,
+      "quiz": [],
+      "fullscreen": false,
+      "conditions": [],
+      "childOrdering": [],
+      "fitWindow": true
+    }
+  ]
+}
