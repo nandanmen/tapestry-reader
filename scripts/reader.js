@@ -57,7 +57,7 @@ const run = async (postId, outFile) => {
   console.log(`Link length after: ${tapestry.links.length}`);
 
   fs.writeFileSync(
-    `out/tapestries/${outFile}.json`,
+    `../out/tapestries/${outFile}.json`,
     JSON.stringify(tapestry, null, 2)
   );
 

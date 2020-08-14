@@ -83,7 +83,7 @@ const run = async () => {
     return tapestries;
   };
 
-  const OUT_DIR = "out";
+  const OUT_DIR = "../out";
 
   const groupNames = process.argv.slice(2);
   Promise.all(

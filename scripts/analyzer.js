@@ -1,5 +1,3 @@
-const fs = require("fs");
-
 const getNeighbours = (tapestry, id) => {
   return tapestry.links
     .filter((link) => link.source == id || link.target == id)

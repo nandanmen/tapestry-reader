@@ -23,10 +23,4 @@ const run = async (predicate) => {
   return items;
 };
 
-run((node) => {
-  const url = node.typeData.mediaURL;
-  if (typeof url === "string") {
-    return url.endsWith("595");
-  }
-  return false;
-}).then((results) => console.log(results));
+run((node) => true /* change this! */).then((results) => console.log(results));
